@@ -1,0 +1,14 @@
+requests
+# duckduckgo-search - OLD VERSION
+ddgs
+python-dotenv
+langgraph
+langchain
+langchain_community
+langchain_ollama
+ollama
+nest_asyncio
+rich
+beautifulsoup4
+lxml
+pyppeteer
