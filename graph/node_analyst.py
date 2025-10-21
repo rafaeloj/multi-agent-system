@@ -4,6 +4,7 @@ from langchain_core.output_parsers.json import JsonOutputParser
 from langchain_ollama.chat_models import ChatOllama
 from dotenv import load_dotenv
 import os
+from .prompts import ANALYST_PROMPT_TEMPLATE
 
 load_dotenv()
 
@@ -14,13 +15,7 @@ def node_analyst(state: AgentState):
         temperature=0.1,
         format='json',
     )
-    prompt = ChatPromptTemplate.from_template(
-        """You are an experienced researcher. Your task is to analyze an article abstract and extract the 3 most relevant keywords for conference searches.
-        Respond ONLY with a valid JSON object with the key \"keywords\"
-
-        Summary: "{summary}"
-        """
-    )
+    prompt = ChatPromptTemplate.from_template(ANALYST_PROMPT_TEMPLATE)
     chain = prompt | json_llm | JsonOutputParser()
     result = chain.invoke({
         "summary": state['summary'],
