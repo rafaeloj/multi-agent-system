@@ -15,6 +15,7 @@ def node_presenter(state: AgentState):
         model = os.environ.get("PRESENTER_LLM"),
         temperature=0.2,
     )
+    print(selected_venues)
     if not selected_venues or selected_venues == "[]":
         print("No venues were selected.")
         prompt = "You're a helpful research assistant. Write a polite message informing the user that after searching with the keywords {keywords}, no relevant conferences were found."

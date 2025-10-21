@@ -4,16 +4,15 @@ import json
 from typing import List
 
 WIKICFP_BASE_URL = "http://www.wikicfp.com"
-def search_wikicfp_tool(keywords: List[str], max_results: int=10, year: int = 2026, log: bool = False) -> str:
-    query = '+'.join(keywords)
-    url = f"{WIKICFP_BASE_URL}/cfp/servlet/tool.search?q={query}&year={year}"
+def search_wikicfp_tool(keyword: str, max_results: int=10, year: int = 2026, log: bool = False) -> str:
+    url = f"{WIKICFP_BASE_URL}/cfp/servlet/tool.search?q={keyword}&year={year}"
+    print( f"Searching WikiCFP with URL: {url}" )
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     }
     # Sempre logue as ferramentas isso irá ajudar no debug posteriormente.
     if log:
-        print(f"Searching WikiCFP for keywords: {keywords}")
-
+        print(f"Searching WikiCFP for keyword: {keyword}")
     # Quando estamos lidando com requisição é sempre normal acontecer erros, é boa prática usar try
     try:
         response = requests.get(url, headers=headers)
@@ -56,7 +55,7 @@ def search_wikicfp_tool(keywords: List[str], max_results: int=10, year: int = 20
                 'keywords': keywords,
                 'link': href,
             })
-        return json.dumps(conferences, indent=2)
+        return conferences
     except Exception as e:
         return f"Error occured while searching WikiCFP: {str(e)}"
 

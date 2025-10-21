@@ -17,15 +17,14 @@ def node_critic(state: AgentState):
     )
     prompt = ChatPromptTemplate.from_template(
          """You are a senior article reviewer. Your task is to analyze an article abstract and a list of conferences. For each conference, a web search was performed, the results of which are listed in "additional_information."
-         Select the 3 conferences that BEST match the article.
-
-            Respond ONLY with a valid JSON object with the key "selected_venues," containing a filtered list.
-
+         Select the {NK} conferences that BEST match the article.
             Article Abstract:
             {summary}
 
             List of Conferences Found (with text search results):
             {enriched_venues}
+
+            Respond ONLY with a valid JSON object with the key "selected_venues," containing a filtered list.
         """
     )
 
@@ -33,7 +32,8 @@ def node_critic(state: AgentState):
 
     result = chain.invoke({
         "summary": state['summary'],
-        "enriched_venues": state['enriched_venues']
+        "enriched_venues": state['enriched_venues'],
+        "NK": state['NK'],
     })
-    print(result)
+    # print(result)
     return {"selected_venues": result['selected_venues']}

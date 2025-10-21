@@ -8,14 +8,15 @@ import os
 
 def router_scout(state: AgentState):
     print("Router Scout activated")
-    raw_venues = state['raw_vanues']
-    if raw_venues and raw_venues != "[]":
-        print("Decision: Success! Send to Node Researcher")
-        return "researcher"
+    raw_venues = state['raw_venues']
+    print("Raw venues:", raw_venues)
+    if raw_venues and raw_venues == "[]" or raw_venues == []:
+        print("Decision: Success! Send to Node Presenter")
+        return "presenter"
     
     # if state["search_tries"] < len(state["keywords"]):
         # print("Decision: No relevant conferences found. Send to Node Scout")
         # return "scout"
     
-    print("Decision: Max search tries reached. Send to Node Presenter")
-    return "presenter"
+    print("Decision: Max search tries reached. Send to Node Researcher")
+    return "researcher"

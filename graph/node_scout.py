@@ -15,7 +15,11 @@ def node_scout(state: AgentState):
     venues = []
     for keyword in keywords:
         print(f"- {keyword}")
-        venues.extend(search_wikicfp_tool(keyword))
+        result = search_wikicfp_tool(keyword, max_results=10)
+        print(f"Results: {result}")
+        venues.extend(result)
+
+    print(f"Found {len(venues)} venues")
     return {
         "raw_venues": venues,
         "search_tries": tries + 1
