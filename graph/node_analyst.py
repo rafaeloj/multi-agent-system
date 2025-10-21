@@ -11,12 +11,12 @@ def node_analyst(state: AgentState):
     print("Node Analyst activated")
     json_llm = ChatOllama(
         model = os.environ.get("ANALYST_LLM"),
-        temperature=0,
+        temperature=0.1,
         format='json',
     )
     prompt = ChatPromptTemplate.from_template(
         """You are an experienced researcher. Your task is to analyze an article abstract and extract the 3 most relevant keywords for conference searches.
-        Respond ONLY with a valid JSON object with the key "keywords."
+        Respond ONLY with a valid JSON object with the key \"keywords\"
 
         Summary: "{summary}"
         """
@@ -25,5 +25,5 @@ def node_analyst(state: AgentState):
     result = chain.invoke({
         "summary": state['summary'],
     })
-
+    print("Node Analyst result:", result)
     return {"keywords": result['keywords'], "search_tries": 0}

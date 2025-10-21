@@ -18,4 +18,4 @@ def router_scout(state: AgentState):
         # return "scout"
     
     print("Decision: Max search tries reached. Send to Node Presenter")
-    return "presenter"
+    return "critic"

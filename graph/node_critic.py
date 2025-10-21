@@ -31,6 +31,10 @@ def node_critic(state: AgentState):
 
     chain = prompt | json_llm | JsonOutputParser()
 
+    if 'enriched_venues' not in state:
+        print("Enriching venues for the first time")
+        state['enriched_venues'] = state['raw_venues']
+
     result = chain.invoke({
         "summary": state['summary'],
         "enriched_venues": state['enriched_venues']

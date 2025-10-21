@@ -26,7 +26,8 @@ def node_presenter(state: AgentState):
     else:
         print("Selected venues:")
         for venue in selected_venues:
-            print(f"- {venue['full_name']} ({venue['acronym']})")
+            print(f"- {venue}")
+        
         prompt ="""You are a helpful research assistant. Write a final report for the researcher.
         The report should be in Markdown format and clearly present the recommended conferences,
         including the acronym, full name, deadline, and WikiCFP link.

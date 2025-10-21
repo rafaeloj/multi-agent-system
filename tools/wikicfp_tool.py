@@ -4,8 +4,8 @@ import json
 from typing import List
 
 WIKICFP_BASE_URL = "http://www.wikicfp.com"
-def search_wikicfp_tool(keywords: List[str], max_results: int=10, year: int = 2026, log: bool = False) -> str:
-    query = '+'.join(keywords)
+def search_wikicfp_tool(query: str, max_results: int=10, year: int = 2026, log: bool = False) -> str:
+    # query = '+'.join(keywords)
     url = f"{WIKICFP_BASE_URL}/cfp/servlet/tool.search?q={query}&year={year}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
