@@ -12,7 +12,7 @@ from .state import AgentState
 load_dotenv()
 
 def node_analyst(state: AgentState):
-    print("Node Analyst activated")
+    print("---- Node Analyst activated ----")
     max_iterations = int(os.environ["ANALYST_MAX_ITERATIONS"])
     analyst_app, analyst_agent = build_analyst_loop()
     save_graph(analyst_app, save_path="./figs/analyst_graph.png")

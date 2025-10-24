@@ -18,5 +18,5 @@ def router_scout(state: AgentState):
         # print("Decision: No relevant conferences found. Send to Node Scout")
         # return "scout"
     
-    print("Decision: Max search tries reached. Send to Node Researcher")
+    print("Decision: Send to Node Researcher")
     return "researcher"

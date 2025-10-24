@@ -1,0 +1,717 @@
+{
+  "summary": "The detection and classification of unmanned air vehicles (UAVs) are disturbing challenges within contemporary radar systems, wherein the physical characteristics of UAVs, including their size and radar cross section (RCS), exert a substantial influence on radar’s detection capabilities. Smaller UAVs, characterized by reduced RCS values, often escape radar detection. In response to these challenges, this study introduces an efficient radar signal processing technique based on beamforming, termed range–Doppler integration while steering (RDIwS). RDIwS significantly enhances the signal-to-noise ratio (SNR) associated with UAVs, resulting in an increased detection probability and classification accuracy for these UAVs. Importantly, the RDIwS approach demonstrates superior performance to traditional multiple-input multiple-output (MIMO) methods and established beamforming-based techniques, showcasing its potential to significantly advance UAV detection and classification across various operational contexts. For four targets located at different angles and distances scenario, and at −30 dB SNR and false alarm probability of 10−5 , the RDIwS beamforming-based method achieved a detection probability of 75% compared to 5% for steering-only beamforming, and no detection for MIMO radar case.",
+  "K": 10,
+  "keywords": [
+    "UAVs",
+    "radar systems"
+  ],
+  "search_tries": 1,
+  "raw_venues": [
+    {
+      "acronym": "AeroTech 2026",
+      "name": "2026 AeroTech",
+      "deadline": "Dec 15, 2025",
+      "where": "West Palm Beach, Florida",
+      "when": "Jun 2, 2026 - Jun 4, 2026",
+      "keywords": [
+        "advanced air mobility",
+        "uavs/drones",
+        "avionics & aircraft systems",
+        "aviation safety"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189837&copyownerid=185487",
+      "additional_info": [
+        {
+          "snippet": "Dec 8, 2021 · 个人觉得应该是油管的概念进入中国后的本地化差异的区别。 如果单看油管的话就我个人接触的虚拟主播的话无论是视频为主的绊爱未来明一类亦或者说直播为主的2434一 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676"
+        },
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "AeroTech 2026: 2026 AeroTech",
+          "dates": "June 2–4, 2026",
+          "location": "West Palm Beach, Florida",
+          "submission_deadline": "December 15, 2025",
+          "final_version_due": "February 3, 2026",
+          "categories": [
+            "Advanced Air Mobility",
+            "UAVs/Drones",
+            "Avionics & Aircraft Systems",
+            "Propulsion & Power Systems",
+            "Advanced Manufacturing & Materials",
+            "Flight Sciences & Testing",
+            "Aviation Cybersecurity",
+            "Aviation Safety"
+          ],
+          "submission_process": [
+            "Register and pay a registration fee to attend AeroTech.",
+            "Register by May 1, 2026 (4 weeks prior to the event)."
+          ],
+          "contact": "Heather.Smith@sae.org"
+        }
+      ]
+    },
+    {
+      "acronym": "CYBER 2026",
+      "name": "The Eleventh International Conference on Cyber-Technologies and Cyber-Systems",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "cyber security",
+        "forensics",
+        "cyber crime",
+        "cyber systems"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190218&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Conference Calendar - IEEE Computational In… cis.ieee.org.",
+          "title": "cis.ieee.org/ conferences / conference -calendar",
+          "link": "https://cis.ieee.org/conferences/conference-calendar"
+        },
+        {
+          "snippet": "He is an Authorized Representative of the Consultative Council on Ukraine's Interaction with Arab and Muslim States. In 2020, he joined the working group on developing the state strategy for the de-occupation of Crimea and Sevastopol under the NSDC.",
+          "title": "National Security and Defense Council of Ukraine",
+          "link": "https://www.rnbo.gov.ua/en/"
+        },
+        {
+          "snippet": "The International Research Conference Aims and Objectives. The International Research Conference is a federated organization dedicated to bringing together a significant number of diverse scholarly events for presentation within the conference program.",
+          "title": "International Conference on Predictive Maintenance and Machine...",
+          "link": "https://waset.org/predictive-maintenance-and-machine-learning-conference-in-february-2026-in-guangzhou"
+        },
+        {
+          "snippet": "Cybertech Israel 2014 – Cyber Security Conference and Exhibition.",
+          "title": "cybertechisrael.com",
+          "link": "https://www.cybertechisrael.com/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "ICSNC 2026",
+      "name": "The Twenty-First International Conference on Systems and Networks Communications",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "systems",
+        "networking",
+        "mobile",
+        "RFID"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190220&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反话”视频与 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管上的官号 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？ …",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻译 luoyali …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "AISyS  2026",
+      "name": "The Third International Conference on AI-based Systems and Services",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "AI",
+        "services",
+        "systems",
+        "trust"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190225&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Workshop on AI Applications in Drug Design and Systems Biology Modeling and Control of Dynamical Systems Using Machine Learning, Data Science, and Operator Theory Workshop on The Impact of Emerging Technologies on Security Enhancement and Reduction Student Workshop: Web Application Hacking and Penetration Testing",
+          "title": "The Third International Conference on Artificial Intelligence and ...",
+          "link": "https://aisoft25.shirazu.ac.ir/en/"
+        },
+        {
+          "snippet": "The Conference is organized by the INSA Strasbourg together with the International Society for AI -Powered Invention and Innovation (ISAIII) and the European TRIZ Association (ETRIA). The conference's main partner is the International Federation for Information Processing (IFIP). CONFERENCE CHAIRS AND COMMITTEES General Chair",
+          "title": "ISAIII - International Society for AI powered Invention and Innovation",
+          "link": "https://isaiii.org/"
+        },
+        {
+          "snippet": "The conference will provide an excellent international forum for sharing knowledge and results in Artificial Intelligence and Automation Control. AIAC 2025 looks for significant contributions to all major fields of the Artificial Intelligence and Automation Control theoretical and practical aspects.",
+          "title": "2025 3rd International Conference on Artificial Intelligence and ...",
+          "link": "https://www.icaiac.org/"
+        },
+        {
+          "snippet": "AIM Conference is a premier global gathering that brings together the brightest minds in AI research, development, and application. As we navigate a world increasingly shaped by intelligent systems , this conference serves as a dynamic platform for collaboration, knowledge exchange, and future-driven innovation.",
+          "title": "the Third International Conference on Artificial Intelligence and ...",
+          "link": "http://www.eventsnow.org/event/the-third-international-conference-on-artificial-intelligence-and-machine-learning/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "title": "AISyS 2026: The Third International Conference on AI-based Systems and Services",
+          "date": "September 27, 2026 - October 1, 2026",
+          "location": "Barcelona, Spain",
+          "submission_deadline": "June 8, 2026",
+          "final_version_due": "August 23, 2026",
+          "topics": [
+            "AI concepts, methodologies, algorithms, and AI support",
+            "AI stages, types, Generative AI, AI Uncertainty, and responsible AI",
+            "AI-based systems, policies, Industry 4.0, precision agriculture, medicine, transportation, and cyber-resilience",
+            "Ethics, explainability, and data governance in AI"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "EXPLAINABILITY  2026",
+      "name": "The Third International Conference on Systems Explainability",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "datasets",
+        "deep learning",
+        "systems",
+        "AI"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190226&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "IWSSIP 2025 32nd International Conference on Systems , Signals and Image Processing June 24-26, 2025 Skopje, North Macedonia Link to IWSSIP 2025 web-site Link to IWSSIP 2025 Call for Papers General Chairs: Venceslav Kafedziski and Vladimir Atanasovski Future IWSSIPs: IWSSIP 2026 33rd International Conference on Systems , Signals and Image ...",
+          "title": "IWSSIP - Homepage - International Conference on Systems, Signals and ...",
+          "link": "https://iwssip.org/"
+        },
+        {
+          "snippet": "A Wiki website of Calls For Papers (CFP) of international conferences , workshops, meetings, seminars, events, journals and book chapters in computer science, communications, software engineering, artificial intelligence, machine learning, networking, signal processing, systems etc.",
+          "title": "WikiCFP : Call For Papers of Conferences, Workshops and Journals",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=47497"
+        },
+        {
+          "snippet": "This two-volume set constitutes the refereed proceedings of the Third International Conference , ISDS 2025, held in Can Tho City, Vietnam, during October 18-19, 2025. The 67 full papers and 2 Short papers included in this book were carefully reviewed and selected from 181 submissions. They focus on the development of innovative, interpretable, and explainable data science and artificial ...",
+          "title": "Intelligent Systems and Data Science: Third International Conference ...",
+          "link": "https://sanet.st/books/5330165-intelligent-systems-data-science-third-international"
+        },
+        {
+          "snippet": "With Conference Locate (Clocate), you can browse events by free text. Find information on Information systems Conferences 2025, 2026, 2027, including dates, locations, price ranges, and more.",
+          "title": "Information systems Conferences 2025, 2026, 2027 | Conference Locate ...",
+          "link": "https://www.clocate.com/conferences-on+information-systems/eHMtNDc2/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "ICVARS 2026",
+      "name": "2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations (ICVARS 2026)",
+      "deadline": "Mar 1, 2026",
+      "where": "Chalon-sur-SaÃ´ne, France",
+      "when": "Jul 15, 2026 - Jul 17, 2026",
+      "keywords": [
+        "artificial intelligence",
+        "virtual reality",
+        "reliability",
+        "systems engineering"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189364&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "ICVARS 2026 Welcome to the official website of the 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations ( ICVARS 2026 ), which will be held in Chalon-sur-Saône, France during July 15-17, 2026 . ICVARS conference brings together people from multiple disciplines and a diversity of cultures to explore new ways to design, develop, and evaluate novel ...",
+          "title": "The 10th ICVARS丨Chalon-sur-Saône, France",
+          "link": "https://icvars.org/"
+        },
+        {
+          "snippet": "Welcome to the official website of the 2026 10th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2026 ). The conference , co-organized by India International Congress on Computational Intelligence (IICCI, www.iicci.in) and Cebu Institute of Technology University, and supported by Tokyo Metropolitan ...",
+          "title": "ISMSI 2026",
+          "link": "https://www.ismsi.org/"
+        },
+        {
+          "snippet": "Aug 6, 2025 · ICVARS 2026 - 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations ( ICVARS 2026 )Date2026-07-15 - 2026 -07-17 Deadline2026-03-01 VenueChalon-sur-Saône, France KeywordsIntelligent Computing ; Virtual Reality Website https://www. icvars .org",
+          "title": "ICVARS 2026 - 10th International Conference on Intelligent ...",
+          "link": "https://conference.researchbib.com/view/event/166445"
+        },
+        {
+          "snippet": "★ ICVARS 2026 [Ei Compendex & Scopus] ★Full Name: 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations ( ICVARS 2026 )",
+          "title": "ICVARS 2026 : 2026 10th International Conference on ... - WikiCFP",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189364"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "Applications of Virtual Reality (VR)",
+          "details": "Applications of Virtual Reality (VR) in various fields such as healthcare, education, and engineering."
+        },
+        {
+          "topic": "Applications of Augmented Reality (AR)",
+          "details": "Applications of Augmented Reality (AR) in fields like transportation, healthcare, and education."
+        },
+        {
+          "topic": "Human Factors and User Experience in Extended Reality (XR)",
+          "details": "Human factors and user experience design principles applied in XR environments."
+        },
+        {
+          "topic": "Motion Capture, Tracking, and Interaction Techniques",
+          "details": "Motion capture and tracking techniques used in simulations and interactive systems."
+        },
+        {
+          "topic": "User Interface (UI) and Experience (UX) Design",
+          "details": "Design principles for UI/UX in immersive environments."
+        },
+        {
+          "topic": "Human-Computer Interaction (HCI) in Immersive Environments",
+          "details": "HCI concepts applied in immersive technologies and XR."
+        },
+        {
+          "topic": "Innovative Interactive Technologies",
+          "details": "Innovative technologies for interactive systems and XR."
+        },
+        {
+          "topic": "Design and Engineering of XR Simulations",
+          "details": "Design and engineering aspects of XR simulations."
+        },
+        {
+          "topic": "AI Integration in Extended Reality Systems",
+          "details": "AI integration in systems involving XR technologies."
+        },
+        {
+          "topic": "Metaverse Development: Infrastructure and Ecosystems",
+          "details": "Metaverse development and its infrastructure."
+        },
+        {
+          "topic": "Neural Rendering and Light Field Imaging",
+          "details": "Neural rendering and light field imaging techniques."
+        },
+        {
+          "topic": "Applications of Mixed Reality (MR) in Healthcare",
+          "details": "MR applications in healthcare, such as medical imaging and diagnostics."
+        },
+        {
+          "topic": "Spatial Computing and 3D Perception",
+          "details": "Spatial computing and 3D perception in XR applications."
+        },
+        {
+          "topic": "Cloud and Edge Computing for XR Applications",
+          "details": "Cloud and edge computing in XR systems."
+        }
+      ]
+    }
+  ],
+  "enriched_venues": [
+    {
+      "acronym": "AeroTech 2026",
+      "name": "2026 AeroTech",
+      "deadline": "Dec 15, 2025",
+      "where": "West Palm Beach, Florida",
+      "when": "Jun 2, 2026 - Jun 4, 2026",
+      "keywords": [
+        "advanced air mobility",
+        "uavs/drones",
+        "avionics & aircraft systems",
+        "aviation safety"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189837&copyownerid=185487",
+      "additional_info": [
+        {
+          "snippet": "Dec 8, 2021 · 个人觉得应该是油管的概念进入中国后的本地化差异的区别。 如果单看油管的话就我个人接触的虚拟主播的话无论是视频为主的绊爱未来明一类亦或者说直播为主的2434一 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676"
+        },
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "AeroTech 2026: 2026 AeroTech",
+          "dates": "June 2–4, 2026",
+          "location": "West Palm Beach, Florida",
+          "submission_deadline": "December 15, 2025",
+          "final_version_due": "February 3, 2026",
+          "categories": [
+            "Advanced Air Mobility",
+            "UAVs/Drones",
+            "Avionics & Aircraft Systems",
+            "Propulsion & Power Systems",
+            "Advanced Manufacturing & Materials",
+            "Flight Sciences & Testing",
+            "Aviation Cybersecurity",
+            "Aviation Safety"
+          ],
+          "submission_process": [
+            "Register and pay a registration fee to attend AeroTech.",
+            "Register by May 1, 2026 (4 weeks prior to the event)."
+          ],
+          "contact": "Heather.Smith@sae.org"
+        }
+      ]
+    },
+    {
+      "acronym": "CYBER 2026",
+      "name": "The Eleventh International Conference on Cyber-Technologies and Cyber-Systems",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "cyber security",
+        "forensics",
+        "cyber crime",
+        "cyber systems"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190218&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Conference Calendar - IEEE Computational In… cis.ieee.org.",
+          "title": "cis.ieee.org/ conferences / conference -calendar",
+          "link": "https://cis.ieee.org/conferences/conference-calendar"
+        },
+        {
+          "snippet": "He is an Authorized Representative of the Consultative Council on Ukraine's Interaction with Arab and Muslim States. In 2020, he joined the working group on developing the state strategy for the de-occupation of Crimea and Sevastopol under the NSDC.",
+          "title": "National Security and Defense Council of Ukraine",
+          "link": "https://www.rnbo.gov.ua/en/"
+        },
+        {
+          "snippet": "The International Research Conference Aims and Objectives. The International Research Conference is a federated organization dedicated to bringing together a significant number of diverse scholarly events for presentation within the conference program.",
+          "title": "International Conference on Predictive Maintenance and Machine...",
+          "link": "https://waset.org/predictive-maintenance-and-machine-learning-conference-in-february-2026-in-guangzhou"
+        },
+        {
+          "snippet": "Cybertech Israel 2014 – Cyber Security Conference and Exhibition.",
+          "title": "cybertechisrael.com",
+          "link": "https://www.cybertechisrael.com/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "ICSNC 2026",
+      "name": "The Twenty-First International Conference on Systems and Networks Communications",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "systems",
+        "networking",
+        "mobile",
+        "RFID"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190220&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反话”视频与 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管上的官号 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？ …",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻译 luoyali …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "AISyS  2026",
+      "name": "The Third International Conference on AI-based Systems and Services",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "AI",
+        "services",
+        "systems",
+        "trust"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190225&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Workshop on AI Applications in Drug Design and Systems Biology Modeling and Control of Dynamical Systems Using Machine Learning, Data Science, and Operator Theory Workshop on The Impact of Emerging Technologies on Security Enhancement and Reduction Student Workshop: Web Application Hacking and Penetration Testing",
+          "title": "The Third International Conference on Artificial Intelligence and ...",
+          "link": "https://aisoft25.shirazu.ac.ir/en/"
+        },
+        {
+          "snippet": "The Conference is organized by the INSA Strasbourg together with the International Society for AI -Powered Invention and Innovation (ISAIII) and the European TRIZ Association (ETRIA). The conference's main partner is the International Federation for Information Processing (IFIP). CONFERENCE CHAIRS AND COMMITTEES General Chair",
+          "title": "ISAIII - International Society for AI powered Invention and Innovation",
+          "link": "https://isaiii.org/"
+        },
+        {
+          "snippet": "The conference will provide an excellent international forum for sharing knowledge and results in Artificial Intelligence and Automation Control. AIAC 2025 looks for significant contributions to all major fields of the Artificial Intelligence and Automation Control theoretical and practical aspects.",
+          "title": "2025 3rd International Conference on Artificial Intelligence and ...",
+          "link": "https://www.icaiac.org/"
+        },
+        {
+          "snippet": "AIM Conference is a premier global gathering that brings together the brightest minds in AI research, development, and application. As we navigate a world increasingly shaped by intelligent systems , this conference serves as a dynamic platform for collaboration, knowledge exchange, and future-driven innovation.",
+          "title": "the Third International Conference on Artificial Intelligence and ...",
+          "link": "http://www.eventsnow.org/event/the-third-international-conference-on-artificial-intelligence-and-machine-learning/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "title": "AISyS 2026: The Third International Conference on AI-based Systems and Services",
+          "date": "September 27, 2026 - October 1, 2026",
+          "location": "Barcelona, Spain",
+          "submission_deadline": "June 8, 2026",
+          "final_version_due": "August 23, 2026",
+          "topics": [
+            "AI concepts, methodologies, algorithms, and AI support",
+            "AI stages, types, Generative AI, AI Uncertainty, and responsible AI",
+            "AI-based systems, policies, Industry 4.0, precision agriculture, medicine, transportation, and cyber-resilience",
+            "Ethics, explainability, and data governance in AI"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "EXPLAINABILITY  2026",
+      "name": "The Third International Conference on Systems Explainability",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "datasets",
+        "deep learning",
+        "systems",
+        "AI"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190226&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "IWSSIP 2025 32nd International Conference on Systems , Signals and Image Processing June 24-26, 2025 Skopje, North Macedonia Link to IWSSIP 2025 web-site Link to IWSSIP 2025 Call for Papers General Chairs: Venceslav Kafedziski and Vladimir Atanasovski Future IWSSIPs: IWSSIP 2026 33rd International Conference on Systems , Signals and Image ...",
+          "title": "IWSSIP - Homepage - International Conference on Systems, Signals and ...",
+          "link": "https://iwssip.org/"
+        },
+        {
+          "snippet": "A Wiki website of Calls For Papers (CFP) of international conferences , workshops, meetings, seminars, events, journals and book chapters in computer science, communications, software engineering, artificial intelligence, machine learning, networking, signal processing, systems etc.",
+          "title": "WikiCFP : Call For Papers of Conferences, Workshops and Journals",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=47497"
+        },
+        {
+          "snippet": "This two-volume set constitutes the refereed proceedings of the Third International Conference , ISDS 2025, held in Can Tho City, Vietnam, during October 18-19, 2025. The 67 full papers and 2 Short papers included in this book were carefully reviewed and selected from 181 submissions. They focus on the development of innovative, interpretable, and explainable data science and artificial ...",
+          "title": "Intelligent Systems and Data Science: Third International Conference ...",
+          "link": "https://sanet.st/books/5330165-intelligent-systems-data-science-third-international"
+        },
+        {
+          "snippet": "With Conference Locate (Clocate), you can browse events by free text. Find information on Information systems Conferences 2025, 2026, 2027, including dates, locations, price ranges, and more.",
+          "title": "Information systems Conferences 2025, 2026, 2027 | Conference Locate ...",
+          "link": "https://www.clocate.com/conferences-on+information-systems/eHMtNDc2/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "ICVARS 2026",
+      "name": "2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations (ICVARS 2026)",
+      "deadline": "Mar 1, 2026",
+      "where": "Chalon-sur-SaÃ´ne, France",
+      "when": "Jul 15, 2026 - Jul 17, 2026",
+      "keywords": [
+        "artificial intelligence",
+        "virtual reality",
+        "reliability",
+        "systems engineering"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189364&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "ICVARS 2026 Welcome to the official website of the 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations ( ICVARS 2026 ), which will be held in Chalon-sur-Saône, France during July 15-17, 2026 . ICVARS conference brings together people from multiple disciplines and a diversity of cultures to explore new ways to design, develop, and evaluate novel ...",
+          "title": "The 10th ICVARS丨Chalon-sur-Saône, France",
+          "link": "https://icvars.org/"
+        },
+        {
+          "snippet": "Welcome to the official website of the 2026 10th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2026 ). The conference , co-organized by India International Congress on Computational Intelligence (IICCI, www.iicci.in) and Cebu Institute of Technology University, and supported by Tokyo Metropolitan ...",
+          "title": "ISMSI 2026",
+          "link": "https://www.ismsi.org/"
+        },
+        {
+          "snippet": "Aug 6, 2025 · ICVARS 2026 - 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations ( ICVARS 2026 )Date2026-07-15 - 2026 -07-17 Deadline2026-03-01 VenueChalon-sur-Saône, France KeywordsIntelligent Computing ; Virtual Reality Website https://www. icvars .org",
+          "title": "ICVARS 2026 - 10th International Conference on Intelligent ...",
+          "link": "https://conference.researchbib.com/view/event/166445"
+        },
+        {
+          "snippet": "★ ICVARS 2026 [Ei Compendex & Scopus] ★Full Name: 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations ( ICVARS 2026 )",
+          "title": "ICVARS 2026 : 2026 10th International Conference on ... - WikiCFP",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189364"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "Applications of Virtual Reality (VR)",
+          "details": "Applications of Virtual Reality (VR) in various fields such as healthcare, education, and engineering."
+        },
+        {
+          "topic": "Applications of Augmented Reality (AR)",
+          "details": "Applications of Augmented Reality (AR) in fields like transportation, healthcare, and education."
+        },
+        {
+          "topic": "Human Factors and User Experience in Extended Reality (XR)",
+          "details": "Human factors and user experience design principles applied in XR environments."
+        },
+        {
+          "topic": "Motion Capture, Tracking, and Interaction Techniques",
+          "details": "Motion capture and tracking techniques used in simulations and interactive systems."
+        },
+        {
+          "topic": "User Interface (UI) and Experience (UX) Design",
+          "details": "Design principles for UI/UX in immersive environments."
+        },
+        {
+          "topic": "Human-Computer Interaction (HCI) in Immersive Environments",
+          "details": "HCI concepts applied in immersive technologies and XR."
+        },
+        {
+          "topic": "Innovative Interactive Technologies",
+          "details": "Innovative technologies for interactive systems and XR."
+        },
+        {
+          "topic": "Design and Engineering of XR Simulations",
+          "details": "Design and engineering aspects of XR simulations."
+        },
+        {
+          "topic": "AI Integration in Extended Reality Systems",
+          "details": "AI integration in systems involving XR technologies."
+        },
+        {
+          "topic": "Metaverse Development: Infrastructure and Ecosystems",
+          "details": "Metaverse development and its infrastructure."
+        },
+        {
+          "topic": "Neural Rendering and Light Field Imaging",
+          "details": "Neural rendering and light field imaging techniques."
+        },
+        {
+          "topic": "Applications of Mixed Reality (MR) in Healthcare",
+          "details": "MR applications in healthcare, such as medical imaging and diagnostics."
+        },
+        {
+          "topic": "Spatial Computing and 3D Perception",
+          "details": "Spatial computing and 3D perception in XR applications."
+        },
+        {
+          "topic": "Cloud and Edge Computing for XR Applications",
+          "details": "Cloud and edge computing in XR systems."
+        }
+      ]
+    }
+  ],
+  "selected_venues": [
+    {
+      "name": "ICVARS 2026",
+      "acronym": "ICVARS 2026",
+      "link": "https://icvars.org/",
+      "date": "Jul 15, 2026 - Jul 17, 2026",
+      "location": "Chalon-sur-Saône, France",
+      "conference_topics": [
+        "Applications of Virtual Reality (VR)",
+        "Applications of Augmented Reality (AR)",
+        "Human factors and user experience in extended reality (XR)",
+        "Motion capture, tracking, and interaction techniques",
+        "User interface (UI) and experience (UX) design",
+        "Human-Computer Interaction (HCI) in immersive environments",
+        "Innovative interactive technologies",
+        "Design and engineering of XR simulations",
+        "AI integration in extended reality systems",
+        "Metaverse development: infrastructure and ecosystems",
+        "Neural rendering and light field imaging"
+      ],
+      "additional_info": [
+        {
+          "title": "ICVARS 2026 - 10th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2026 ).",
+          "link": "https://www.ismsi.org/"
+        }
+      ]
+    },
+    {
+      "name": "EXPLAINABILITY 2026",
+      "acronym": "EXPLAINABILITY 2026",
+      "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=47497",
+      "date": "Sep 27, 2026 - Oct 1, 2026",
+      "location": "Barcelona, Spain",
+      "conference_topics": [
+        "Intelligent Systems and Data Science: Third International Conference , ISDS 2025",
+        "IWSSIP 2025 32nd International Conference on Systems , Signals and Image Processing June 24-26, 2025",
+        "Intelligent Systems and Data Science: Third International Conference , ISDS 2025",
+        "Intelligent Systems and Data Science: Third International Conference , ISDS 2025"
+      ],
+      "additional_info": [
+        {
+          "title": "WikiCFP : Call For Papers of Conferences, Workshops and Journals",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=47497"
+        }
+      ]
+    }
+  ],
+  "final_decision": "<think>\nOkay, let's start by understanding the user's request. They want a final report in Markdown format, recommending two conferences: ICVARS 2026 and EXPLAINABILITY 2026. Each should have an acronym, name, deadline, location, and a WikiCFP link. Also, there are additional_info entries with titles and links.\n\nFirst, I need to structure the report properly. Start with the title, then list each conference. For ICVARS 2026, check the details: acronym, name, date, location, topics. The date is from July 15 to 17, 2026. Location is Chalon-sur-Saône, France. Topics are a list of 18 topics. The link provided is the ICVARS website. Then, EXPLAINABILITY 2026 has its own details. The date is September 27 to October 1, 2026, location Barcelona, Spain. Topics are a bit longer, but the user included the same topics as ICVARS. The link is the EXPLAINABILITY CFP page.\n\nWait, the user provided two entries for EXPLAINABILITY, but in the initial data, there's only one. Maybe they meant to include both, but in the example, the user lists them as separate. I need to make sure each conference is correctly formatted with the required fields. Also, check for any typos or formatting issues. Once all information is correctly placed, wrap it up with a conclusion.\n</think>\n\n```markdown\n# Final Report: Recommended Conferences for Research\n\n## Recommended Conferences\n\n### 1. **ICVARS 2026**\n- **Acronym**: ICVARS 2026  \n- **Name**: 10th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2026)  \n- **Deadline**: Jul 15, 2026 - Jul 17, 2026  \n- **Location**: Chalon-sur-Saône, France  \n- **Conference Topics**:  \n  - Applications of Virtual Reality (VR)  \n  - Applications of Augmented Reality (AR)  \n  - Human factors and user experience in extended reality (XR)  \n  - Motion capture, tracking, and interaction techniques  \n  - User interface (UI) and experience (UX) design  \n  - Human-Computer Interaction (HCI) in immersive environments  \n  - Innovative interactive technologies  \n  - Design and engineering of XR simulations  \n  - AI integration in extended reality systems  \n  - Metaverse development: infrastructure and ecosystems  \n  - Neural rendering and light field imaging  \n\n- **WikiCFP Link**: [https://icvars.org/](https://icvars.org/)  \n\n### 2. **EXPLAINABILITY 2026**\n- **Acronym**: EXPLAINABILITY 2026  \n- **Name**: Call For Papers of Conferences, Workshops and Journals  \n- **Deadline**: Sep 27, 2026 - Oct 1, 2026  \n- **Location**: Barcelona, Spain  \n- **Conference Topics**:  \n  - Intelligent Systems and Data Science: Third International Conference, ISDS 2025  \n  - IWSSIP 2025 32nd International Conference on Systems, Signals and Image Processing June 24-26, 2025  \n  - Intelligent Systems and Data Science: Third International Conference, ISDS 2025  \n\n- **WikiCFP Link**: [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=47497](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=47497)  \n\n## Additional Information\n\n- **ICVARS 2026**: The conference focuses on advanced applications of XR, AI, and immersive technologies.  \n- **EXPLAINABILITY 2026**: This event highlights interdisciplinary research in systems, data science, and human-computer interaction.  \n\nThis report recommends these conferences for researchers interested in cutting-edge interdisciplinary research in the fields of extended reality, AI, and intelligent systems.\n```",
+  "insufficient": false,
+  "agent_logs": {
+    "analyst": {
+      "plan": "<think>\nOkay, let's tackle this keyword extraction plan. The user wants to extract conceptual keywords from the given academic text. First, I need to understand the task clearly. The core strategy is to differentiate between conceptual and specific keywords. So, first, I should read through the paper summary to identify the main concepts.\n\nThe paper is about UAV detection using a new radar technique called RDIwS. The key points are the physical characteristics of UAVs, their RCS, and the impact on radar detection. Then, the new method's performance compared to traditional methods. \n\nSo, the conceptual keywords here would be terms related to UAVs, radar, signal processing, beamforming, and detection accuracy. Specific keywords would be things like \"non-iid data,\" \"stragglers,\" \"CIFAR-10,\" \"MIMO,\" \"beamforming,\" and \"SNR.\" \n\nI need to make sure I'm not including the technical terms that are specific to the problem. For example, \"non-iid data\" and \"stragglers\" are specific to the dataset or problem, so they should be ignored. The RDIwS approach is a new method, so that's a conceptual keyword. Also, the detection probability and accuracy metrics are part of the study, but they're technical details and should be excluded.\n\nWait, the user mentioned to extract only the conceptual keywords. So, the plan should list all the high-level terms. Let me check again. The paper talks about UAVs, radar, signal processing, beamforming, and detection. Also, the comparison with other methods shows the RDIwS's superiority, so that's a conceptual keyword. \n\nI need to structure the plan step-by-step. First, define the input as an academic text. Then, identify the two types of keywords. For the first, list the terms like UAVs, radar, signal processing, beamforming, and detection. For the second, exclude specific terms. Finally, present the list. Make sure to mention that the output is a list of keywords. \n\nDouble-check for any possible mistakes. For example, \"non-iid data\" and \"stragglers\" are specific, so they should be ignored. The RDIwS approach is a method, so that's a keyword. The detection probability and accuracy are technical, so they're excluded. \n\nYes, that should cover it. Now, present the plan clearly with the input and output.\n</think>\n\n### Step-by-Step Keyword Extraction Plan  \n\n#### **Input:**  \n- Academic text: *\"The detection and classification of unmanned air vehicles (UAVs) are disturbing challenges within contemporary radar systems, wherein the physical characteristics of UAVs, including their size and radar cross section (RCS), exert a substantial influence on radar’s detection capabilities. Smaller UAVs, characterized by reduced RCS values, often escape radar detection. In response to these challenges, this study introduces an efficient radar signal processing technique based on beamforming, termed range–Doppler integration while steering (RDIwS). RDIwS significantly enhances the signal-to-noise ratio (SNR) associated with UAVs, resulting in an increased detection probability and classification accuracy for these UAVs. Importantly, the RDIwS approach demonstrates superior performance to traditional multiple-input multiple-output (MIMO) methods and established beamforming-based techniques, showcasing its potential to significantly advance UAV detection and classification across various operational contexts. For four targets located at different angles and distances scenario, and at −30 dB SNR and false alarm probability of 10−5 , the RDIwS beamforming-based method achieved a detection probability of 75% compared to 5% for steering-only beamforming, and no detection for MIMO radar case.\"*  \n\n#### **Output:**  \n- List of **Conceptual / Thematic Keywords**:  \n  - UAVs  \n  - Radar  \n  - Signal Processing  \n  - Beamforming  \n  - Detection  \n  - Range–Doppler Integration  \n  - Doppler  \n  - SNR  \n  - Detection Probability  \n  - Classification Accuracy  \n  - UAV Detection  \n  - MIMO  \n  - Range  \n  - False Alarm Probability  \n\n#### **Explanation**:  \n- **Conceptual Keywords**: High-level terms defining research fields, paradigms, or broad areas (e.g., \"UAVs\", \"radar\", \"beamforming\").  \n- **Specific Keywords**: Low-level terms describing technical details (e.g., \"non-iid data\", \"stragglers\", \"CIFAR-10\", \"MIMO\", \"beamforming\").  \n\nThis plan ensures exclusion of technical specifics while retaining high-level research concepts.",
+      "reasoning": "<think>\nOkay, let's see. The user wants me to extract the conceptual keywords from the given academic text. First, I need to identify all the potential candidate terms from the text. The text is about UAVs and radar systems.\n\nFirst, I'll look for nouns, noun phrases, and technical terms. The text mentions \"unmanned air vehicles (UAVs)\", \"radar systems\", \"physical characteristics of UAVs\", \"radar cross section (RCS)\", \"beamforming\", \"range–Doppler integration while steering (RDIwS)\", \"signal-to-noise ratio (SNR)\", \"detection probability\", \"classification accuracy\", \"operational contexts\", \"four targets\", \"different angles and distances\", \"-30 dB SNR\", \"false alarm probability\", \"beamforming-based methods\", \"MIMO radar\", \"superior performance\", \"significantly advance\".\n\nNow, applying the core test: Is the term more likely to be a conference/workshop topic or a paper's detail? Let's check each term.\n\n\"UAVs\" is a conference topic, so it passes. \"Radar systems\" is a conference topic, so it passes. \"RCS\" is a technical term, but it's part of the paper's detail, so it fails. \"Beamforming\" is a technique, but it's part of the paper's detail, so it fails. \"Range–Doppler integration while steering (RDIwS)\" is a method, but it's part of the paper's detail, so it fails. \"SNR\" is a detail, so it fails. \"Detection probability\" and \"classification accuracy\" are details, so they fail. \"Operational contexts\" and \"four targets\" are details. \"Different angles and distances\" is a detail. \"-30 dB SNR\" and \"false alarm probability\" are details. \"Beamforming-based methods\" and \"MIMO radar\" are details. \"Significantly advance\" is a detail. \n\nSo the only terms that passed are \"UAVs\" and \"radar systems\". Wait, but the example in the previous step had \"federated learning\" and \"Networking\". So maybe in this case, the correct terms are \"UAVs\" and \"radar systems\". Let me double-check. The original text mentions \"beamforming\", which is a technique, but it's part of the paper's detail, so it should be excluded. So the final answer should be \"UAVs, radar systems\".\n</think>\n\nUAVs, radar systems",
+      "memory": "",
+      "iterations": 1,
+      "plan_log": [
+        "<think>\nOkay, let's tackle this keyword extraction plan. The user wants to extract conceptual keywords from the given academic text. First, I need to understand the task clearly. The core strategy is to differentiate between conceptual and specific keywords. So, first, I should read through the paper summary to identify the main concepts.\n\nThe paper is about UAV detection using a new radar technique called RDIwS. The key points are the physical characteristics of UAVs, their RCS, and the impact on radar detection. Then, the new method's performance compared to traditional methods. \n\nSo, the conceptual keywords here would be terms related to UAVs, radar, signal processing, beamforming, and detection accuracy. Specific keywords would be things like \"non-iid data,\" \"stragglers,\" \"CIFAR-10,\" \"MIMO,\" \"beamforming,\" and \"SNR.\" \n\nI need to make sure I'm not including the technical terms that are specific to the problem. For example, \"non-iid data\" and \"stragglers\" are specific to the dataset or problem, so they should be ignored. The RDIwS approach is a new method, so that's a conceptual keyword. Also, the detection probability and accuracy metrics are part of the study, but they're technical details and should be excluded.\n\nWait, the user mentioned to extract only the conceptual keywords. So, the plan should list all the high-level terms. Let me check again. The paper talks about UAVs, radar, signal processing, beamforming, and detection. Also, the comparison with other methods shows the RDIwS's superiority, so that's a conceptual keyword. \n\nI need to structure the plan step-by-step. First, define the input as an academic text. Then, identify the two types of keywords. For the first, list the terms like UAVs, radar, signal processing, beamforming, and detection. For the second, exclude specific terms. Finally, present the list. Make sure to mention that the output is a list of keywords. \n\nDouble-check for any possible mistakes. For example, \"non-iid data\" and \"stragglers\" are specific, so they should be ignored. The RDIwS approach is a method, so that's a keyword. The detection probability and accuracy are technical, so they're excluded. \n\nYes, that should cover it. Now, present the plan clearly with the input and output.\n</think>\n\n### Step-by-Step Keyword Extraction Plan  \n\n#### **Input:**  \n- Academic text: *\"The detection and classification of unmanned air vehicles (UAVs) are disturbing challenges within contemporary radar systems, wherein the physical characteristics of UAVs, including their size and radar cross section (RCS), exert a substantial influence on radar’s detection capabilities. Smaller UAVs, characterized by reduced RCS values, often escape radar detection. In response to these challenges, this study introduces an efficient radar signal processing technique based on beamforming, termed range–Doppler integration while steering (RDIwS). RDIwS significantly enhances the signal-to-noise ratio (SNR) associated with UAVs, resulting in an increased detection probability and classification accuracy for these UAVs. Importantly, the RDIwS approach demonstrates superior performance to traditional multiple-input multiple-output (MIMO) methods and established beamforming-based techniques, showcasing its potential to significantly advance UAV detection and classification across various operational contexts. For four targets located at different angles and distances scenario, and at −30 dB SNR and false alarm probability of 10−5 , the RDIwS beamforming-based method achieved a detection probability of 75% compared to 5% for steering-only beamforming, and no detection for MIMO radar case.\"*  \n\n#### **Output:**  \n- List of **Conceptual / Thematic Keywords**:  \n  - UAVs  \n  - Radar  \n  - Signal Processing  \n  - Beamforming  \n  - Detection  \n  - Range–Doppler Integration  \n  - Doppler  \n  - SNR  \n  - Detection Probability  \n  - Classification Accuracy  \n  - UAV Detection  \n  - MIMO  \n  - Range  \n  - False Alarm Probability  \n\n#### **Explanation**:  \n- **Conceptual Keywords**: High-level terms defining research fields, paradigms, or broad areas (e.g., \"UAVs\", \"radar\", \"beamforming\").  \n- **Specific Keywords**: Low-level terms describing technical details (e.g., \"non-iid data\", \"stragglers\", \"CIFAR-10\", \"MIMO\", \"beamforming\").  \n\nThis plan ensures exclusion of technical specifics while retaining high-level research concepts."
+      ],
+      "reasoning_log": [
+        "<think>\nOkay, let's see. The user wants me to extract the conceptual keywords from the given academic text. First, I need to identify all the potential candidate terms from the text. The text is about UAVs and radar systems.\n\nFirst, I'll look for nouns, noun phrases, and technical terms. The text mentions \"unmanned air vehicles (UAVs)\", \"radar systems\", \"physical characteristics of UAVs\", \"radar cross section (RCS)\", \"beamforming\", \"range–Doppler integration while steering (RDIwS)\", \"signal-to-noise ratio (SNR)\", \"detection probability\", \"classification accuracy\", \"operational contexts\", \"four targets\", \"different angles and distances\", \"-30 dB SNR\", \"false alarm probability\", \"beamforming-based methods\", \"MIMO radar\", \"superior performance\", \"significantly advance\".\n\nNow, applying the core test: Is the term more likely to be a conference/workshop topic or a paper's detail? Let's check each term.\n\n\"UAVs\" is a conference topic, so it passes. \"Radar systems\" is a conference topic, so it passes. \"RCS\" is a technical term, but it's part of the paper's detail, so it fails. \"Beamforming\" is a technique, but it's part of the paper's detail, so it fails. \"Range–Doppler integration while steering (RDIwS)\" is a method, but it's part of the paper's detail, so it fails. \"SNR\" is a detail, so it fails. \"Detection probability\" and \"classification accuracy\" are details, so they fail. \"Operational contexts\" and \"four targets\" are details. \"Different angles and distances\" is a detail. \"-30 dB SNR\" and \"false alarm probability\" are details. \"Beamforming-based methods\" and \"MIMO radar\" are details. \"Significantly advance\" is a detail. \n\nSo the only terms that passed are \"UAVs\" and \"radar systems\". Wait, but the example in the previous step had \"federated learning\" and \"Networking\". So maybe in this case, the correct terms are \"UAVs\" and \"radar systems\". Let me double-check. The original text mentions \"beamforming\", which is a technique, but it's part of the paper's detail, so it should be excluded. So the final answer should be \"UAVs, radar systems\".\n</think>\n\nUAVs, radar systems"
+      ],
+      "keywords": [
+        "UAVs",
+        "radar systems"
+      ]
+    },
+    "researcher": {
+      "plan": "<think>\nOkay, let's see. The user wants me to develop a step-by-step plan to identify conference topics of interest based on the given content. The content is a CFP (Conference Paper) details from the ICVARS 2026 conference. \n\nFirst, I need to parse the information provided. The user has given me the URL of the CFP, the main details, and some related resources. My task is to extract key information and then structure a plan to identify the topics.\n\nFirst step: Extract key information. The main details are the title, date, location, submission deadline, categories, call for papers, publication, submission methods, schedule, venue, contact, related resources. I need to list these points.\n\nNext, step-by-step plan. Maybe start by identifying the main topics mentioned in the call for papers. The user mentioned topics like applications of VR, AR, human factors, motion capture, UI/UX, HCI, innovative technologies, design in XR, AI integration, metaverse development, spatial computing, cloud computing, etc. These are the primary areas.\n\nThen, check if there are any specific categories or tags mentioned. The categories include artificial intelligence, virtual reality, etc. Also, the submission deadline is March 1, 2026. So, the plan should include considering the deadline as a submission date.\n\nI need to structure the plan to first gather all the key information, then list the topics based on that, and then maybe include the submission details. Also, ensure that the topics are well-organized and cover the main areas mentioned. Make sure to mention the submission methods and other details as part of the plan.\n\nWait, the user is a Researcher, so maybe they need to structure this for a conference matching purpose. So, the plan should be clear and actionable, guiding the user through extracting and organizing the information.\n\nDouble-check if there are any other relevant details. The website link is provided, but maybe that's just a reference. The main points are the topics and submission details. So, the plan should focus on those aspects.\n\nI think that's all. Now, structure the steps clearly, ensuring each step leads to the next, and that all key points are covered.\n</think>\n\n**Step-by-Step Plan to Identify Conference Topics of Interest**\n\n1. **Extract Key Information from the CFP Details**  \n   - **Event Title**: \"ICVARS 2026: 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations\"  \n   - **Date**: July 15–17, 2026  \n   - **Location**: Chalon-sur-Saône, France  \n   - **Submission Deadline**: March 1, 2026  \n   - **Categories**: Artificial intelligence, virtual reality, reliability, systems engineering, human factors, user experience, motion capture, user interface, human-computer interaction, innovative technologies, design in XR, AI integration, metaverse development, spatial computing, cloud computing  \n\n2. **Identify Topics of Interest**  \n   - **Primary Topics**:  \n     - Applications of Virtual Reality (VR)  \n     - Applications of Augmented Reality (AR)  \n     - Human Factors and User Experience in Extended Reality (XR)  \n     - Motion Capture, Tracking, and Interaction Techniques  \n     - User Interface (UI) and Experience (UX) Design  \n     - Human-Computer Interaction (HCI) in Immersive Environments  \n     - Innovative Interactive Technologies  \n     - Design and Engineering of XR Simulations  \n     - AI Integration in Extended Reality Systems  \n     - Metaverse Development: Infrastructure and Ecosystems  \n     - Neural Rendering and Light Field Imaging  \n     - Applications of Mixed Reality (MR) in Healthcare  \n     - Spatial Computing and 3D Perception  \n     - Cloud and Edge Computing for XR Applications  \n\n3. **Check for Specific Tags or Categories**  \n   - **Categories**: \"artificial intelligence\", \"virtual reality\", \"reliability\", \"systems engineering\", \"human factors\", \"user experience\", \"motion capture\", \"user interface\", \"human-computer interaction\", \"innovative technologies\", \"design in XR\", \"AI integration\", \"metaverse development\", \"spatial computing\", \"cloud computing\".  \n\n4. **Include Submission Details**  \n   - **Submission Methods**: Full paper (publication and presentation)  \n   - **Online Submission**: [Link to submission system]  \n   - **Publication**: Conference Proceedings (indexed in Ei/Scopus)  \n\n5. **Consider Venue and Contact Information**  \n   - **Venue**: Institut Arts et Métiers de Chalon-sur-Saône  \n   - **Contact**: Ms. Mia HUANG (icvars@163.com)  \n\n6. **Verify Related Resources**  \n   - **Ei/Scopus-ITCC 2026**: 2026 6th International Conference on Information Technology and Cloud Computing  \n   - **ICVARS--EI 2026**: 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations  \n   - **IEEE-ACAI 2025**: 2025 IEEE 8th International Conference on Algorithms, Computing and Artificial Intelligence  \n\n**Summary**  \nBy systematically extracting and organizing the key information, the plan ensures that the Researcher identifies the primary topics, submission deadlines, and related resources for the ICVARS 2026 conference. This structured approach helps in aligning the Researcher’s focus with the conference’s objectives.",
+      "reasoning": "<think>\nOkay, let's see. The user provided a CFP details for ICVARS 2026 and wants me to check if the plan makes sense and verify all information. First, I need to parse the content and extract the key points.\n\nThe main details are the event title, date, location, submission deadline, categories, call for papers, publication, submission methods, schedule, venue, contact, and related resources. The user also included some related resources like Ei/Scopus and IEEE conferences. \n\nNow, the plan should be structured to identify the topics based on the call for papers. The user mentioned topics like applications of VR, AR, human factors, motion capture, UI/UX, etc. I need to list these categories. Also, check if there are specific tags or categories mentioned. The submission deadline is March 1, 2026, so include that. \n\nI should structure the plan step-by-step, starting with extracting the key info, then identifying the topics, and ensuring all details are consistent. Make sure to mention the submission methods and other details. Also, verify that the related resources are consistent with the content. If there are any inconsistencies, correct them. For example, if the venue is mentioned but the contact details are missing, add them. Finally, confirm that all information is accurate and the plan is clear.\n</think>\n\n**Step-by-Step Plan to Identify Conference Topics of Interest**\n\n1. **Extract Key Information from the CFP Details**  \n   - **Event Title**: \"ICVARS 2026: 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations\"  \n   - **Date**: July 15–17, 2026  \n   - **Location**: Chalon-sur-Saône, France  \n   - **Submission Deadline**: March 1, 2026  \n   - **Categories**: Artificial intelligence, virtual reality, reliability, systems engineering, human factors, user experience, motion capture, user interface, human-computer interaction, innovative technologies, design in XR, AI integration, metaverse development, spatial computing, cloud computing  \n\n2. **Identify Topics of Interest**  \n   - **Primary Topics**:  \n     - Applications of Virtual Reality (VR)  \n     - Applications of Augmented Reality (AR)  \n     - Human Factors and User Experience in Extended Reality (XR)  \n     - Motion Capture, Tracking, and Interaction Techniques  \n     - User Interface (UI) and Experience (UX) Design  \n     - Human-Computer Interaction (HCI) in Immersive Environments  \n     - Innovative Interactive Technologies  \n     - Design and Engineering of XR Simulations  \n     - AI Integration in Extended Reality Systems  \n     - Metaverse Development: Infrastructure and Ecosystems  \n     - Neural Rendering and Light Field Imaging  \n     - Applications of Mixed Reality (MR) in Healthcare  \n     - Spatial Computing and 3D Perception  \n     - Cloud and Edge Computing for XR Applications  \n\n3. **Include Submission Details**  \n   - **Submission Methods**: Full paper (publication and presentation)  \n   - **Online Submission System**: [Link to submission system]  \n   - **Publication**: Conference Proceedings (indexed in Ei/Scopus)  \n\n4. **Verify Related Resources**  \n   - **Ei/Scopus-ITCC 2026**: 2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026)  \n   - **ICVARS--EI 2026**: 2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations (ICVARS 2026)  \n   - **IEEE-ACAI 2025**: 2025 IEEE 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025)  \n\n5. **Ensure Consistency**  \n   - All topics are consistent with the call for papers.  \n   - Submission deadline is explicitly stated as March 1, 2026.  \n   - Venue and contact information are included for clarity.  \n\n**Final Notes**  \n- The plan ensures alignment with the ICVARS 2026 conference’s objectives.  \n- All information is structured to guide the Researcher in identifying relevant topics and submitting papers.",
+      "memory": ""
+    }
+  }
+}

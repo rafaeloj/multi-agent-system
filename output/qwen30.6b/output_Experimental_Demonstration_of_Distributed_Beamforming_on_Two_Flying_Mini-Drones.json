@@ -1,0 +1,1804 @@
+{
+  "summary": "Combing distributed small wireless systems on mobile platforms such as swarm airborne mini-drones has been explored recently. Localization and synchronization of the mobile drones are the main challenges limiting its practical applications. In this paper, we proposed a new approach to circumvent this limits by considering the drones as relay nodes, where the received signals are modulated to different frequencies and then re-transmitted to the final receiver for demodulation and beamforming. Real-time adaptive beamformer algorithm is used to compensate for the phase delay difference among drone elements in RF circuitry and in propagation paths caused by different drone elements positions. A beamforming array based on two-drones uses to demonstrate this concept. Improved signal to noise ratio (SNR) has been experimentally demonstrated with such beamforming approach. The proposed beamforming system architecture is expected to extend to a large of number distributed mini-drones for future wireless sensing and communication systems.",
+  "K": 10,
+  "keywords": [
+    "distributed systems",
+    "networking",
+    "beamforming array",
+    "signal to noise ratio"
+  ],
+  "search_tries": 1,
+  "raw_venues": [
+    {
+      "acronym": "MIDDLEWARE 2026",
+      "name": "27th ACM/IFIP International Middleware Conference",
+      "deadline": "Jun 6, 2026",
+      "where": "Universitat Rovira i Virgili",
+      "when": "Nov 30, 2026 - Dec 4, 2026",
+      "keywords": [
+        "communications",
+        "distributed systems",
+        "software engineering",
+        "networks"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190153&copyownerid=195504",
+      "additional_info": [
+        {
+          "snippet": "ACM/IFIP Middleware The annual ACM/IFIP Middleware conference is a major forum for discussing innovations and recent scientific advances in middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication. The conference will include a high-quality single-track technical ...",
+          "title": "MIDDLEWARE 2024 - GitHub Pages",
+          "link": "https://middleware-conf.github.io/2024/"
+        },
+        {
+          "snippet": "The annual ACM/IFIP Middleware conference is a major forum for discussing innovations and recent scientific advances in middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication.",
+          "title": "MIDDLEWARE 2026 : 27th ACM/IFIP International Middleware ...",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190153"
+        },
+        {
+          "snippet": "2 days ago · ACM/IFIP /USENIX International Middleware Conference - Middleware 2026Middleware 2026 - ACM/IFIP /USENIX International Middleware Conference Send this CFP to us by mail: cfp@ourglocal.org Introduction: The Middleware conference is a forum for the discussion of important innovations and recent advances in the design, construction and uses of middleware . Middleware is a distributed-system software ...",
+          "title": "ACM/IFIP/USENIX International Middleware Conference ...",
+          "link": "https://www.ourglocal.com/wikicfp/?conid=94&year=2026"
+        },
+        {
+          "snippet": "CALL FOR RESEARCH PAPERS The annual ACM/IFIP Middleware conference is a major forum for discussing innovations and recent scientific advances in middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication. The conference will include a high-quality single-track technical ...",
+          "title": "CALL FOR RESEARCH PAPERS - middleware-conf.github.io",
+          "link": "https://middleware-conf.github.io/2025/calls/call-for-research-papers/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "title": "27th ACM/IFIP International Middleware Conference",
+          "date": "November 30, 2026 - December 4, 2026",
+          "location": "Universitat Rovira i Virgili",
+          "submission_deadline": "June 6, 2026",
+          "notification_due": "September 5, 2026",
+          "final_version_due": "October 24, 2026",
+          "topics_of_interest": [
+            "Middleware Applications",
+            "Middleware for cyber-physical and real-time systems",
+            "Middleware support for security and privacy",
+            "Middleware for AI and machine learning systems",
+            "Middleware for data science pipelines",
+            "Middleware techniques for internet-of-things and smart cities",
+            "Middleware for multimedia systems",
+            "Middleware Systems",
+            "Fault tolerance and consistency",
+            "Distributed and parallel systems",
+            "Distributed ledgers and blockchains",
+            "Serverless and Function-as-a-Service computing",
+            "Data-intensive systems (big data)",
+            "Cloud, fog, edge computing, and data centers",
+            "Networking, network function virtualization, and software-defined networking",
+            "Mobile and pervasive systems and services",
+            "Emerging hardware technologies",
+            "Middleware Design Principles and Programming Models",
+            "Programming abstractions and paradigms for middleware",
+            "Reconfigurable, adaptable, and reflective middleware",
+            "Critical reviews of middleware paradigms (e.g., object models, aspect orientation)",
+            "Methodologies and tools for middleware systems design, implementation, verification, and evaluation",
+            "Monitoring, resource management, and analysis",
+            "Virtualization, auto-scaling, provisioning, and scheduling",
+            "Energy and power-aware techniques"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "IPDPS 2026",
+      "name": "40th IEEE International Parallel & Distributed Processing Symposium",
+      "deadline": "Oct 9, 2025 (Oct 2, 2025)",
+      "where": "New Orleans, USA",
+      "when": "May 25, 2026 - May 29, 2026",
+      "keywords": [
+        "HPC",
+        "parallel computing",
+        "distributed computing"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189093&copyownerid=194187",
+      "additional_info": [
+        {
+          "snippet": "The International Parallel and Distributed Processing Symposium (or IPDPS) is an annual conference for engineers and scientists to present recent findings in the fields of parallel processing and distributed computing. In addition to technical sessions of submitted paper presentations, the meeting offers workshops, tutorials, and commercial presentations & exhibits. IPDPS is sponsored by the ...",
+          "title": "International Parallel and Distributed Processing Symposium",
+          "link": "https://en.wikipedia.org/wiki/International_Parallel_and_Distributed_Processing_Symposium"
+        },
+        {
+          "snippet": "Conference Calendar - IEEE Computational In… cis. ieee .org.",
+          "title": "cis. ieee .org/ conferences / conference -calendar",
+          "link": "https://cis.ieee.org/conferences/conference-calendar"
+        },
+        {
+          "snippet": "The 2025 IEEE Conference on Advances in Magnetics was held from 9 to 12 February 2025 at the Forum of Bressanone, Italy.",
+          "title": "2025 IEEE Advances in Magnetics – Bressanone, Italy, February 9 -12...",
+          "link": "https://www.aim2025.it/"
+        },
+        {
+          "snippet": "However, individual satellites face resource constraints, and implementing distributed processing techniques, such as federated learning (FL), across multiple satellites introduces significant scheduling complexity.",
+          "title": "Joint Partitioning, Allocation, and Transmission Optimization for...",
+          "link": "https://www.computer.org/csdl/journal/tm/2025/10/10994289/26y4rttrgaY"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "IPDPS 2026: 40th IEEE International Parallel & Distributed Processing Symposium",
+          "details": "Conference Details: IPDPS 2026, 2026, New Orleans, USA, May 25–29, 2026. Submission Deadline: October 9, 2025. Final Version Due: February 20, 2026."
+        },
+        {
+          "topic": "HPC and Parallel Computing",
+          "details": "Focus Areas: HPC, parallel computing, distributed computing, ML/AI, and emerging technologies like quantum and neuromorphic computing."
+        },
+        {
+          "topic": "ML/AI and Artificial Intelligence",
+          "details": "Topics include ML/AI training, optimization, federated learning, frameworks, and software pipelines for ML/AI."
+        },
+        {
+          "topic": "Architectural Trends",
+          "details": "Key Areas: Instruction-level parallelism, multicore, accelerators, co-design paradigms, memory technologies, and special-purpose architectures."
+        }
+      ]
+    },
+    {
+      "acronym": "PDP 2026",
+      "name": "Parallel, Distributed, and Network-Based Processing",
+      "deadline": "Oct 26, 2025 (Oct 19, 2025)",
+      "where": "Cluj-Napoca",
+      "when": "Mar 25, 2026 - Mar 27, 2026",
+      "keywords": [
+        "parallel computing",
+        "distributed computing",
+        "artificial intelligence",
+        "cloud computing"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=188853&copyownerid=179598",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中文 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻 …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "Parallel, Distributed, and Network-Based Processing",
+          "details": "PDP 2026 is a conference focused on parallel, distributed, and network-based processing. It will feature contributed and invited talks, with special sessions planned for the topics mentioned."
+        },
+        {
+          "topic": "Algorithm",
+          "details": "The conference invites submissions in algorithmic research, including resource-aware and power-efficient algorithms, fault-tolerant distributed/parallel algorithms, and graph/network algorithms."
+        },
+        {
+          "topic": "Applications",
+          "details": "Applications include numerical and scientific applications with multi-level parallelism, applications over irregular domains, and models for enhancing functional/non-functional application characteristics."
+        },
+        {
+          "topic": "Data-Centric Processing",
+          "details": "Scientific workflows; large-scale data processing; storage systems; I/O performance tuning; benchmarking; middleware; FAIR/open data systems."
+        },
+        {
+          "topic": "Distributed AI",
+          "details": "Federated learning; distributed learning; AI at scale; training of LLMs; benchmarking for AI workloads."
+        },
+        {
+          "topic": "Distributed Computing",
+          "details": "Cluster, grid, fog/edge, mobile and cloud systems; service-oriented processing; stochastic and approximate computing; cost, security, energy, and other non-functional requirements models."
+        },
+        {
+          "topic": "Parallel Computing",
+          "details": "Accelerators (GPU, FPGA, neuromorphic and post-CMOS devices); embedded parallel systems; dependability, survivability, and fault-tolerance; methodologies, benchmarking/metrics, performance analysis and tools."
+        },
+        {
+          "topic": "Programming Models and Tools",
+          "details": "Programming languages, compilers, middleware and OS; libraries, runtime, and systems software; notation; performance prediction and analysis; simulation and modeling of parallel/distributed systems."
+        },
+        {
+          "topic": "HPC State of Practice",
+          "details": "Managing systems and storage; managing facilities; HPC project management; moving, managing and sharing data HPC in the cloud; networking and cybersecurity; HPC training and education strategies; application workflows; system benchmarking."
+        },
+        {
+          "topic": "Systems and Architectures",
+          "details": "High throughput and streaming architectures; memory organization; service-oriented architectures; heterogeneous and hybrid systems; resource management; post-CMOS architectures (inc. quantum, neuromorphic, and others)."
+        }
+      ]
+    },
+    {
+      "acronym": "CCGrid  2026",
+      "name": "The 26th IEEE International Symposium on Cluster, Cloud and Internet Computing",
+      "deadline": "Dec 15, 2025 (Dec 1, 2025)",
+      "where": "Sydney, Australia",
+      "when": "May 18, 2026 - May 21, 2026",
+      "keywords": [
+        "edge cloud computing",
+        "internet computing",
+        "distributed computing",
+        "software systems"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189781&copyownerid=195075",
+      "additional_info": [
+        {
+          "snippet": "Dec 8, 2021 · 个人觉得应该是油管的概念进入中国后的本地化差异的区别。 如果单看油管的话就我个人接触的虚拟主播的话无论是视频为主的绊爱未来明一类亦或者说直播为主的2434一 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676"
+        },
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "CCGrid 2026",
+          "date": "May 18–21, 2026",
+          "location": "Sydney, Australia",
+          "focus": "Distributed systems, cloud computing, AI/ML, and sustainable technologies",
+          "tracks": [
+            "Hardware Systems, Architectures, and Future Compute Platforms",
+            "Software Systems, Applications, and Programming Models",
+            "Sustainable Computing and Green Technologies",
+            "Performance Modeling, Analysis, and Optimization",
+            "Security, Privacy, and Ethical Computing",
+            "Cloud Infrastructure and Scalability"
+          ],
+          "submission_deadlines": [
+            "Abstract Submission: 1st December 2025",
+            "Paper Submission: 15th December 2025",
+            "Author Notifications: 10th February 2026",
+            "Camera Ready: 15th March 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "CYBER 2026",
+      "name": "The Eleventh International Conference on Cyber-Technologies and Cyber-Systems",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "cyber security",
+        "forensics",
+        "cyber crime",
+        "cyber systems"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190218&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Wicys 2026 in-person conference . March 11 -13, 2026 . WiCyS 2026 is the go-to event for cybersecurity professionals, students, and organizations. The conference is the flagship event to recruit, retain and advance women in cybersecurity.",
+          "title": "WiCyS 2026 | WiCyS - Women in Cybersecurity",
+          "link": "https://www.wicys.org/events/wicys-2026/"
+        },
+        {
+          "snippet": "Conference Calendar - IEEE Computational In… cis.ieee.org.",
+          "title": "cis.ieee.org/ conferences / conference -calendar",
+          "link": "https://cis.ieee.org/conferences/conference-calendar"
+        },
+        {
+          "snippet": "He is an Authorized Representative of the Consultative Council on Ukraine's Interaction with Arab and Muslim States. In 2020, he joined the working group on developing the state strategy for the de-occupation of Crimea and Sevastopol under the NSDC.",
+          "title": "National Security and Defense Council of Ukraine",
+          "link": "https://www.rnbo.gov.ua/en/"
+        },
+        {
+          "snippet": "Cybertech Israel 2014 – Cyber Security Conference and Exhibition.",
+          "title": "cybertechisrael.com",
+          "link": "https://www.cybertechisrael.com/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "Ei/Scopus-ITCC 2026",
+      "name": "2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026)",
+      "deadline": "Apr 22, 2026",
+      "where": "Guangzhou, China",
+      "when": "May 22, 2026 - May 24, 2026",
+      "keywords": [
+        "communications",
+        "networking",
+        "machine learning",
+        "computer science"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=127474&copyownerid=193532",
+      "additional_info": [
+        {
+          "snippet": "Aug 15, 2025 · For academics, researchers, and industry professionals in the fast-evolving world of computer science and technology , international conferences are essential for sharing groundbreaking work, fostering collaboration, and staying ahead of industry trends. The year 2026 presents a wealth of opportunities to present your research on a global stage.",
+          "title": "2026 International Conference List: A Guide for Computer and ...",
+          "link": "https://www.iconf.org/news/697"
+        },
+        {
+          "snippet": "Jan 8, 2025 · With Conference Locate (Clocate), you can browse events by subject and dates or year. Find information on IT Conferences in 2026 , including dates, locations, price ranges, and more.",
+          "title": "IT Conferences in 2026 | Conference Locate (Clocate)",
+          "link": "https://www.clocate.com/conferences-on+information-technology-it+2026/c3UtNDc2K3ly/"
+        },
+        {
+          "snippet": "邮箱: itcc_conf@163.com 会议简介 2026 第六届信息技术与云计算国际会议（ITCC 2026 ）将于 2026 年 5 月 22-24 日在中国广州举行。 ITCC 2026 将汇集顶尖的学术科学家、研究学者和研究人员，分享和交流他们在信息技术和云计算各方面的经验和研究成果。",
+          "title": "2026年第六届信息技术与云计算国际会议 (Itcc 2026)",
+          "link": "https://www.scholat.com/orgPost.html?id=3720"
+        },
+        {
+          "snippet": "International conferences have become one of the most powerful platforms for academic and professional growth. For researchers, these events provide an opportunity to present groundbreaking studies, gain peer recognition, and explore collaborative opportunities with experts worldwide. For students, international conferences serve as a stepping stone to the professional world, enabling them to ...",
+          "title": "Upcoming International Conferences 2026: Complete Guide for Researchers ...",
+          "link": "https://www.allinternationalconference.com/blog/2025/08/29/upcoming-international-conferences-2026-complete-guide-for-researchers-and-students/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "name": "Ei/Scopus-ITCC 2026",
+          "details": "2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026), aims to bring together leading academic scientists, researchers, and practitioners to share and exchange experiences and research results in Wireless Communication and Big Data. It provides a premier interdisciplinary forum for researchers, practitioners, and educators to present and discuss recent innovations, trends, and challenges in IT/Cloud Computing."
+        },
+        {
+          "name": "Information Theory",
+          "details": "The Application of Information Technology, Artificial & Computational Intelligence, Internet Technology, Control Theory, Computer Simulation, Signal & Image Processing, Information Technology Management, Pattern Recognition, Wireless Communication and Mobile Computing, Data Mining, CAD/CAM/CIM"
+        }
+      ]
+    },
+    {
+      "acronym": "SEMAPRO 2026",
+      "name": "he Twentieth International Conference on Advances in Semantic Processing",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "semantics",
+        "ontologies",
+        "multimedia",
+        "networking"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190213&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反话”视频与 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管上的官号 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？ …",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻译 luoyali …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "ICSNC 2026",
+      "name": "The Twenty-First International Conference on Systems and Networks Communications",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "systems",
+        "networking",
+        "mobile",
+        "RFID"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190220&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "IEEE INFOCOM 2026 is scheduled to take place at the Hilton Tokyo, Tokyo, Japan during May 18- 21 , 2026 . This event will be conducted in person, allowing attendees to fully immerse themselves in the conference experience. IEEE INFOCOM is a top-ranked conference on networking by...",
+          "title": "Call for Papers | IEEE International Conference on Computer...",
+          "link": "https://infocom2026.ieee-infocom.org/call-papers"
+        },
+        {
+          "snippet": "Workshops. Keynotes. Main Conference .The 21 st ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2026 ) will be held in Bangalore, India from 1-5 June 2026 .",
+          "title": "Home - ACM ASIACCS 2026",
+          "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
+        },
+        {
+          "snippet": "The 2026 IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA 2026 ).",
+          "title": "3SCEA 2026 - ufe",
+          "link": "https://ufe.edu.eg/3scea2026/"
+        },
+        {
+          "snippet": "Welcome to the official webpage of the 12th International Conference on Rotordynamics 2026 . This event, taking place from June 22-26, 2026 , in Lahti, Finland...",
+          "title": "The 12th IFToMM International Conference on ... | LUT University",
+          "link": "https://www.lut.fi/en/rotordynamics2026"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "INNOV 2026",
+      "name": "The Fifteenth International Conference on Communications, Computation, Networks and Technologies",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "communications",
+        "computing",
+        "networking",
+        "semantics"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190224&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "ENERGY 2025, The Fifteenth International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies WEB 2025, The Thirteenth International Conference on Building and Exploring Web Based Environments",
+          "title": "The Fifteenth International Conference on Smart Grids, Green ...",
+          "link": "https://www.conference2go.com/event/the-fifteenth-international-conference-on-smart-grids-green-communications-and-it-energy-aware-technologies-energy-2025/"
+        },
+        {
+          "snippet": "ICMU2025 -- The Fifteenth International Conference on Mobile Computing and Ubiquitous Networking -- focuses on the active area of research and development in mobile communications , networks , security, applications, algorithms, and systems as well as mobile computing and ubiquitous networking. Nowadays, mobile computing and ubiquitous",
+          "title": "ICMU 2025 : The 15th International Conference on Mobile ... - WikiCFP",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=184804"
+        },
+        {
+          "snippet": "The Fifteenth International Conference on Advanced Communications and Computation (INFOCOMP 2025) will be held in Valencia, Spain. The event invites contributions from all research domains related to the following areas: Communication , Biometrics, Modeling, Computation . Please be reminded that the deadline for submitting your contribution is Dec 03, 2024.",
+          "title": "The Fifteenth International Conference on Advanced Communications and ...",
+          "link": "https://www.conferencelists.org/event/the-fifteenth-international-conference-on-advanced-communications-and-computation-infocomp-2025/"
+        },
+        {
+          "snippet": "The Fifteenth International Conference on Ambient Computing, Applications, Services and Technologies (AMBIENT 2025), 28 Sep - 02 Oct, 2025, Lisbon, Portugal, organized by IARIA - International Academy Research and Industry Association.",
+          "title": "The Fifteenth International Conference on Ambient Computing ...",
+          "link": "https://www.clocate.com/the-international-conference-on-ambient-computing-applications-services-and-technologies-ambient/9821/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "IMC 2026",
+      "name": "Internet Measurement Conference (Cycle 2)",
+      "deadline": "Apr 29, 2026 (Apr 22, 2026)",
+      "where": "Karlsruhe, Germany",
+      "when": "Nov 3, 2026 - Nov 6, 2026",
+      "keywords": [
+        "networking",
+        "mesurements",
+        "security",
+        "performance"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190238&copyownerid=195532",
+      "additional_info": [
+        {
+          "snippet": "The Internet Measurement Conference (IMC) is a highly selective venue for the presentation of measurement -based research in data communications. As we are in the era of data-driven research, IMC 2025 will focus on advancing the state of the art in the collection, usage, analysis, and sharing of network measurements for the research community.",
+          "title": "IMC 2025 : ACM Internet Measurement Conference 2025 (cycle 2) - WikiCFP",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=183233"
+        },
+        {
+          "snippet": "Proceedings of the 3rd ACM SIGCOMM Internet Measurement Conference , IMC 2003, Miami Beach, FL, USA, October 27- 29, 2003. ACM 2003, ISBN 1-58113-773-7 [contents]",
+          "title": "dblp: Internet Measurement Conference",
+          "link": "https://dblp.org/db/conf/imc/index"
+        },
+        {
+          "snippet": "Conference information: The 2024 Internet Measurement Conference (IMC) is a three-day internet measurement and analysis event. It is sponsored by ACM SIGCOMM and is the 24th in a series of highly successful internet measurement workshops and conferences .",
+          "title": "2024 Internet Measurement Conference Remote PoD",
+          "link": "https://www.africa.engineering.cmu.edu/events/2024/11/4-6-acm-imc-pod.html"
+        },
+        {
+          "snippet": "The ACM Internet Measurement Conference 2025 ( cycle 2) will be held in Wisconsin, United States of America. The event invites contributions from all research domains related to the following areas: Cybersecurity, Network, Measurements .",
+          "title": "ACM Internet Measurement Conference 2025 (cycle 2)",
+          "link": "https://www.conferencelists.org/event/acm-internet-measurement-conference-2025-cycle-2/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "IMC 2026: Internet Measurement Conference (Cycle 2)",
+          "location": "Karlsruhe, Germany",
+          "dates": "November 3–6, 2026",
+          "categories": [
+            "Networking",
+            "Measurements",
+            "Security",
+            "Performance",
+            "Edge Networks",
+            "Data Centers",
+            "P2P",
+            "Overlay",
+            "Software-Defined",
+            "Online Social",
+            "Cloud",
+            "Experimental",
+            "Future Internetworks"
+          ],
+          "abstract_registration_deadline": "April 22, 2026",
+          "submission_deadline": "April 29, 2026",
+          "notification_deadline": "August 4, 2026",
+          "final_version_deadline": "September 1, 2026",
+          "related_resources": [
+            {
+              "name": "Ei/Scopus-ITCC 2026",
+              "description": "2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026)"
+            },
+            {
+              "name": "IMC 2025",
+              "description": "ACM Internet Measurement Conference 2025 (cycle 2)"
+            },
+            {
+              "name": "IMC 2025",
+              "description": "ACM Internet Measurement Conference 2025 (cycle 1)"
+            },
+            {
+              "name": "Ei/Scopus-MLBDM 2025",
+              "description": "2025 5th International Conference on Machine Learning and Big Data Management (MLBDM 2025)"
+            },
+            {
+              "name": "IEEE-ACAI 2025",
+              "description": "2025 IEEE 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "Ei/Scopus-CMLDS 2026",
+      "name": "2026 3rd International Conference on Computing, Machine Learning and Data Science (CMLDS 2026)",
+      "deadline": "Mar 24, 2026",
+      "where": "Singapore",
+      "when": "Apr 24, 2026 - Apr 26, 2026",
+      "keywords": [
+        "robotics",
+        "machine learning",
+        "signal processing",
+        "computer science"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=172345&copyownerid=185107",
+      "additional_info": [
+        {
+          "snippet": "2026 3 rd International Conference on Computing , Machine Learning and Data Science ( CMLDS 2026 ) will be held in Singapore during April 24 th-26th, 2026 .",
+          "title": "CMLDS 2026",
+          "link": "http://www.cmlds.net/topics.html"
+        },
+        {
+          "snippet": "CMLDS 2026 is to bring together leading academic scientists, research scholars and researchers to share and exchange their experiences and research results about all aspects of Computing , Machine Learning and Data Science .Early bird registration. 20/02/ 2026 . Date formats: d/m/y.",
+          "title": "2026 3 rd International Conference on Computing , Machine ...",
+          "link": "https://kindcongress.com/event/cmlds-2026/"
+        },
+        {
+          "snippet": "Computing for Machine Vision. Machine Learning Methods and Analysis.Important. Please, check \" International Conference on Computing , Machine Learning and Data Science ( CMLDS )\" official website for possible changes, before making any traveling arrangements.",
+          "title": "3 rd International Conference on Computing , Machine Learning ...",
+          "link": "https://www.clocate.com/international-conference-on-computing-machine-learning-and-data-science-cmlds/101387/"
+        },
+        {
+          "snippet": "Computing , Machine Learning and Data Science . Artificial intelligence / AI - General. Conference Format: Online and Onsite. 2025 2nd International Conference on Computing , Machine Learning and Data Science ( CMLDS 2025) will be held during April 25-27, 2025 in Xiamen, China.",
+          "title": "CMLDS 2025 - 2025 2nd International Conference on Computing ...",
+          "link": "https://electroorg.com/events/113472/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "title": "Computer Modeling",
+          "details": "Focus areas in the conference include computer modeling, machine learning techniques for big data, parallel computing, and machine learning trends."
+        },
+        {
+          "title": "Machine Learning Techniques for Big Data",
+          "details": "The conference emphasizes advanced machine learning methods tailored for handling large datasets."
+        },
+        {
+          "title": "Parallel Computing",
+          "details": "Highlights in parallel computing, including distributed and decentralized algorithms."
+        },
+        {
+          "title": "Quantum Computing",
+          "details": "Incorporates quantum computing as a key area of research and development."
+        },
+        {
+          "title": "Distributed and Decentralized Machine Learning Algorithms",
+          "details": "Focus on algorithms designed for distributed and decentralized systems."
+        },
+        {
+          "title": "High Performance Computing",
+          "details": "Emphasizes high-performance computing techniques and technologies."
+        },
+        {
+          "title": "Intelligent Cloud-support Communications",
+          "details": "Involves intelligent communication systems supported by cloud technologies."
+        },
+        {
+          "title": "Distributed and parallel systems",
+          "details": "Highlights in distributed and parallel computing frameworks."
+        },
+        {
+          "title": "Intelligent Software Defined Networks",
+          "details": "Focus on software-defined networks and their intelligent aspects."
+        },
+        {
+          "title": "Cognitive Computing",
+          "details": "Incorporates cognitive computing as a central theme in the conference."
+        },
+        {
+          "title": "Big Data Technologies",
+          "details": "Emphasizes big data technologies and their applications."
+        },
+        {
+          "title": "Cloud Computing",
+          "details": "Highlights cloud computing as a critical component of the conference."
+        },
+        {
+          "title": "Data Mining and Visualization",
+          "details": "Focus on data mining and visualization techniques."
+        }
+      ]
+    },
+    {
+      "acronym": "ICMSSP 2026",
+      "name": "2026 11th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2026)",
+      "deadline": "Jan 10, 2026",
+      "where": "Hiroshima, Japan",
+      "when": "Jun 5, 2026 - Jun 7, 2026",
+      "keywords": [
+        "signal processing",
+        "communications",
+        "multimedia",
+        "information technology"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189160&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反话”视频与 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管上的官号 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？ …",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻译 luoyali …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": [
+        {
+          "conference_name": "ICMSSP 2026",
+          "location": "Hiroshima, Japan",
+          "dates": "June 5–7, 2026",
+          "submission_deadline": "January 10, 2026",
+          "contact": "Ms. Rachel Cao (email: icmssp@126.com)"
+        },
+        {
+          "categories": [
+            "Signal Processing",
+            "Communications",
+            "Multimedia",
+            "Information Technology"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "Ei/Scopus-CDIVP 2026",
+      "name": "2026 6th International Conference on Digital Image and Video Processing (CDIVP 2026)",
+      "deadline": "Feb 27, 2026",
+      "where": "Hangzhou, China",
+      "when": "Mar 27, 2026 - Mar 29, 2026",
+      "keywords": [
+        "digital image",
+        "video processing",
+        "video signal processing",
+        "medical image analysis"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=185169&copyownerid=165700",
+      "additional_info": [
+        {
+          "snippet": "CDIVP 2026 is to bring together leading academic scientists, research scholars and researchers to share and exchange their experiences and research results about all aspects of Digital Image and Video Processing .28/02/ 2026 . Registration Opens.",
+          "title": "2026 6 th International Conference on Digital Image and Video ...",
+          "link": "https://kindcongress.com/event/cdivp-2026/"
+        },
+        {
+          "snippet": "27 -29 Mar 2026 . Hangzhou, China.Computational Imaging . Learning and relevance feedback in image / video retrieval. Learning and assessment based on virtual reality approaches. Machine architectures/engines for graphics and VR.",
+          "title": "6 th International Conference on Digital Image and Video ...",
+          "link": "https://www.clocate.com/international-conference-on-digital-image-and-video-processing-cdivp/91699/"
+        },
+        {
+          "snippet": "CDIVP 2026 will be held during March 27 -29th, 2026 in Hangzhou, China, it will include presentations in form of contributed papers, poster sessions, and state of the art lectures by invited keynote speakers. Organized by: ICEA. Check the event website for more details.",
+          "title": "2026 6 th International Conference on Digital Image and Video ...",
+          "link": "https://conferencealerts.com/show-event?id=272858"
+        },
+        {
+          "snippet": "2026 6 th International Conference on Digital Image and Video Processing ( CDIVP 2026 )-Ei compendex & Scopus ( CDIVP 2026 ). CDIVP 2026 will include presentations in form of contributed papers, poster sessions, and state of the art lectures by invited keynote speakers.",
+          "title": "Call For Papers - The World's Largest Index/List of Call For Papers",
+          "link": "https://www.call4paper.com/detail/event/IKOPTJSO86248333?v=subject"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "Ei/Scopus-CDIVP 2026: 2026 6th International Conference on Digital Image and Video Processing (CDIVP 2026)",
+          "date": "March 27–29, 2026",
+          "location": "Hangzhou, China",
+          "submission_deadline": "February 27, 2026",
+          "format": "Online + In-person",
+          "topics": [
+            "Digital Image and Video Processing",
+            "3D and Surface Reconstruction",
+            "3D Modeling and Visualization",
+            "Image generation, acquisition, and processing",
+            "Image geometry and multi-view geometry",
+            "Image & Video Analysis and Segmentation",
+            "Image & Video Coding and Transmission",
+            "Medical Image processing",
+            "Pattern Analysis and Classification",
+            "Machine learning technologies for vision"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "ICGSP--EI 2026",
+      "name": "2026 The 10th International Conference on Graphics and Signal Processing (ICGSP 2026)",
+      "deadline": "Feb 20, 2026",
+      "where": "Okayama, Japan",
+      "when": "Jun 26, 2026 - Jun 28, 2026",
+      "keywords": [
+        "computer graphics",
+        "computer vision",
+        "bioinformatics",
+        "multimedia"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189854&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "ICGSP 2026 is sponsored by Okayama University, Japan. The conference provides a scientific platform for both local and international scientists, engineers and technologists who work in all aspects of Graphics and Signal Processing .",
+          "title": "ICGSP 2025| Tokushima, Japan",
+          "link": "https://icgsp.org/"
+        },
+        {
+          "snippet": "This conference will address diverse topics related to recent trends and progress made in the field of graphics and signal processing . We will be thankful for the contributions to ICGSP 2026 .",
+          "title": "ICGSP 2026-2026 The 10th International Conference on Graphics ...",
+          "link": "https://www.iconf.org/conference/icgsp2026"
+        },
+        {
+          "snippet": "Welcome to the official website of the 2026 10th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2026 ). The conference , co-organized by India International Congress on Computational Intelligence (IICCI, www.iicci.in) and Cebu Institute of Technology University, and supported by Tokyo Metropolitan ...",
+          "title": "ISMSI 2026",
+          "link": "https://www.ismsi.org/"
+        },
+        {
+          "snippet": "Sep 9, 2025 · 2026 The 10th International Conference on Graphics and Signal Processing , will be held in Okayama,Japan from Jun 26-Jun 28, 2026 , Enter this page to view detailed information about the conference , including scope of call for papers, submission deadline, conference schedule, contact information, etc.",
+          "title": "2026 The 10th International Conference on Graphics and Signal ...",
+          "link": "https://www.iconf.com/conference/ICGSP2026_8814"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "Computer Graphics",
+          "details": "Focus on advancements in image processing, AI, and real-time applications."
+        },
+        {
+          "topic": "Computer Vision",
+          "details": "Applications in healthcare, data analysis, and computational biology."
+        },
+        {
+          "topic": "Bioinformatics",
+          "details": "Use in healthcare, data analysis, and computational biology."
+        },
+        {
+          "topic": "Multimedia",
+          "details": "Topics like big data analytics, distributed systems, and multimedia networking."
+        },
+        {
+          "topic": "Emerging Technology",
+          "details": "AI, IoT, ML, and cybersecurity in healthcare and smart environments."
+        }
+      ]
+    },
+    {
+      "acronym": "CCCE--EI 2026",
+      "name": "2026 6th International Conference on Computer and Communication Engineering (CCCE 2026)",
+      "deadline": "Mar 10, 2026",
+      "where": "Milan, Italy",
+      "when": "Aug 28, 2026 - Aug 30, 2026",
+      "keywords": [
+        "cloud computing",
+        "signal processing",
+        "networks",
+        "wireless communications"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190483&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看 …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "CCCE 2026",
+          "location": "Milan, Italy",
+          "dates": "August 28–30, 2026",
+          "submission_deadline": "March 10, 2026",
+          "categories": [
+            "Computer/device networking (technologies, architectures, protocols, applications)",
+            "Network stability, control, and optimization",
+            "Wireless transmission and networking technology",
+            "Emerging communication technologies and applications",
+            "Signal processing for networking",
+            "Space communications, navigation, and tracking",
+            "Radio networking",
+            "Wireless, cellular, and mobile communications",
+            "Signal processing for AI and its impact on infrastructure",
+            "IoT, sensor design, and sensor networks",
+            "Peer-to-Peer communication and computing",
+            "Theory and application of Artificial Intelligence (AI) and their impact on computer/network infrastructure"
+          ],
+          "contact": "Ms. Ching Cao (ccce_conf@outlook.com)"
+        }
+      ]
+    }
+  ],
+  "enriched_venues": [
+    {
+      "acronym": "MIDDLEWARE 2026",
+      "name": "27th ACM/IFIP International Middleware Conference",
+      "deadline": "Jun 6, 2026",
+      "where": "Universitat Rovira i Virgili",
+      "when": "Nov 30, 2026 - Dec 4, 2026",
+      "keywords": [
+        "communications",
+        "distributed systems",
+        "software engineering",
+        "networks"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190153&copyownerid=195504",
+      "additional_info": [
+        {
+          "snippet": "ACM/IFIP Middleware The annual ACM/IFIP Middleware conference is a major forum for discussing innovations and recent scientific advances in middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication. The conference will include a high-quality single-track technical ...",
+          "title": "MIDDLEWARE 2024 - GitHub Pages",
+          "link": "https://middleware-conf.github.io/2024/"
+        },
+        {
+          "snippet": "The annual ACM/IFIP Middleware conference is a major forum for discussing innovations and recent scientific advances in middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication.",
+          "title": "MIDDLEWARE 2026 : 27th ACM/IFIP International Middleware ...",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190153"
+        },
+        {
+          "snippet": "2 days ago · ACM/IFIP /USENIX International Middleware Conference - Middleware 2026Middleware 2026 - ACM/IFIP /USENIX International Middleware Conference Send this CFP to us by mail: cfp@ourglocal.org Introduction: The Middleware conference is a forum for the discussion of important innovations and recent advances in the design, construction and uses of middleware . Middleware is a distributed-system software ...",
+          "title": "ACM/IFIP/USENIX International Middleware Conference ...",
+          "link": "https://www.ourglocal.com/wikicfp/?conid=94&year=2026"
+        },
+        {
+          "snippet": "CALL FOR RESEARCH PAPERS The annual ACM/IFIP Middleware conference is a major forum for discussing innovations and recent scientific advances in middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication. The conference will include a high-quality single-track technical ...",
+          "title": "CALL FOR RESEARCH PAPERS - middleware-conf.github.io",
+          "link": "https://middleware-conf.github.io/2025/calls/call-for-research-papers/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "title": "27th ACM/IFIP International Middleware Conference",
+          "date": "November 30, 2026 - December 4, 2026",
+          "location": "Universitat Rovira i Virgili",
+          "submission_deadline": "June 6, 2026",
+          "notification_due": "September 5, 2026",
+          "final_version_due": "October 24, 2026",
+          "topics_of_interest": [
+            "Middleware Applications",
+            "Middleware for cyber-physical and real-time systems",
+            "Middleware support for security and privacy",
+            "Middleware for AI and machine learning systems",
+            "Middleware for data science pipelines",
+            "Middleware techniques for internet-of-things and smart cities",
+            "Middleware for multimedia systems",
+            "Middleware Systems",
+            "Fault tolerance and consistency",
+            "Distributed and parallel systems",
+            "Distributed ledgers and blockchains",
+            "Serverless and Function-as-a-Service computing",
+            "Data-intensive systems (big data)",
+            "Cloud, fog, edge computing, and data centers",
+            "Networking, network function virtualization, and software-defined networking",
+            "Mobile and pervasive systems and services",
+            "Emerging hardware technologies",
+            "Middleware Design Principles and Programming Models",
+            "Programming abstractions and paradigms for middleware",
+            "Reconfigurable, adaptable, and reflective middleware",
+            "Critical reviews of middleware paradigms (e.g., object models, aspect orientation)",
+            "Methodologies and tools for middleware systems design, implementation, verification, and evaluation",
+            "Monitoring, resource management, and analysis",
+            "Virtualization, auto-scaling, provisioning, and scheduling",
+            "Energy and power-aware techniques"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "IPDPS 2026",
+      "name": "40th IEEE International Parallel & Distributed Processing Symposium",
+      "deadline": "Oct 9, 2025 (Oct 2, 2025)",
+      "where": "New Orleans, USA",
+      "when": "May 25, 2026 - May 29, 2026",
+      "keywords": [
+        "HPC",
+        "parallel computing",
+        "distributed computing"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189093&copyownerid=194187",
+      "additional_info": [
+        {
+          "snippet": "The International Parallel and Distributed Processing Symposium (or IPDPS) is an annual conference for engineers and scientists to present recent findings in the fields of parallel processing and distributed computing. In addition to technical sessions of submitted paper presentations, the meeting offers workshops, tutorials, and commercial presentations & exhibits. IPDPS is sponsored by the ...",
+          "title": "International Parallel and Distributed Processing Symposium",
+          "link": "https://en.wikipedia.org/wiki/International_Parallel_and_Distributed_Processing_Symposium"
+        },
+        {
+          "snippet": "Conference Calendar - IEEE Computational In… cis. ieee .org.",
+          "title": "cis. ieee .org/ conferences / conference -calendar",
+          "link": "https://cis.ieee.org/conferences/conference-calendar"
+        },
+        {
+          "snippet": "The 2025 IEEE Conference on Advances in Magnetics was held from 9 to 12 February 2025 at the Forum of Bressanone, Italy.",
+          "title": "2025 IEEE Advances in Magnetics – Bressanone, Italy, February 9 -12...",
+          "link": "https://www.aim2025.it/"
+        },
+        {
+          "snippet": "However, individual satellites face resource constraints, and implementing distributed processing techniques, such as federated learning (FL), across multiple satellites introduces significant scheduling complexity.",
+          "title": "Joint Partitioning, Allocation, and Transmission Optimization for...",
+          "link": "https://www.computer.org/csdl/journal/tm/2025/10/10994289/26y4rttrgaY"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "IPDPS 2026: 40th IEEE International Parallel & Distributed Processing Symposium",
+          "details": "Conference Details: IPDPS 2026, 2026, New Orleans, USA, May 25–29, 2026. Submission Deadline: October 9, 2025. Final Version Due: February 20, 2026."
+        },
+        {
+          "topic": "HPC and Parallel Computing",
+          "details": "Focus Areas: HPC, parallel computing, distributed computing, ML/AI, and emerging technologies like quantum and neuromorphic computing."
+        },
+        {
+          "topic": "ML/AI and Artificial Intelligence",
+          "details": "Topics include ML/AI training, optimization, federated learning, frameworks, and software pipelines for ML/AI."
+        },
+        {
+          "topic": "Architectural Trends",
+          "details": "Key Areas: Instruction-level parallelism, multicore, accelerators, co-design paradigms, memory technologies, and special-purpose architectures."
+        }
+      ]
+    },
+    {
+      "acronym": "PDP 2026",
+      "name": "Parallel, Distributed, and Network-Based Processing",
+      "deadline": "Oct 26, 2025 (Oct 19, 2025)",
+      "where": "Cluj-Napoca",
+      "when": "Mar 25, 2026 - Mar 27, 2026",
+      "keywords": [
+        "parallel computing",
+        "distributed computing",
+        "artificial intelligence",
+        "cloud computing"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=188853&copyownerid=179598",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中文 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻 …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "Parallel, Distributed, and Network-Based Processing",
+          "details": "PDP 2026 is a conference focused on parallel, distributed, and network-based processing. It will feature contributed and invited talks, with special sessions planned for the topics mentioned."
+        },
+        {
+          "topic": "Algorithm",
+          "details": "The conference invites submissions in algorithmic research, including resource-aware and power-efficient algorithms, fault-tolerant distributed/parallel algorithms, and graph/network algorithms."
+        },
+        {
+          "topic": "Applications",
+          "details": "Applications include numerical and scientific applications with multi-level parallelism, applications over irregular domains, and models for enhancing functional/non-functional application characteristics."
+        },
+        {
+          "topic": "Data-Centric Processing",
+          "details": "Scientific workflows; large-scale data processing; storage systems; I/O performance tuning; benchmarking; middleware; FAIR/open data systems."
+        },
+        {
+          "topic": "Distributed AI",
+          "details": "Federated learning; distributed learning; AI at scale; training of LLMs; benchmarking for AI workloads."
+        },
+        {
+          "topic": "Distributed Computing",
+          "details": "Cluster, grid, fog/edge, mobile and cloud systems; service-oriented processing; stochastic and approximate computing; cost, security, energy, and other non-functional requirements models."
+        },
+        {
+          "topic": "Parallel Computing",
+          "details": "Accelerators (GPU, FPGA, neuromorphic and post-CMOS devices); embedded parallel systems; dependability, survivability, and fault-tolerance; methodologies, benchmarking/metrics, performance analysis and tools."
+        },
+        {
+          "topic": "Programming Models and Tools",
+          "details": "Programming languages, compilers, middleware and OS; libraries, runtime, and systems software; notation; performance prediction and analysis; simulation and modeling of parallel/distributed systems."
+        },
+        {
+          "topic": "HPC State of Practice",
+          "details": "Managing systems and storage; managing facilities; HPC project management; moving, managing and sharing data HPC in the cloud; networking and cybersecurity; HPC training and education strategies; application workflows; system benchmarking."
+        },
+        {
+          "topic": "Systems and Architectures",
+          "details": "High throughput and streaming architectures; memory organization; service-oriented architectures; heterogeneous and hybrid systems; resource management; post-CMOS architectures (inc. quantum, neuromorphic, and others)."
+        }
+      ]
+    },
+    {
+      "acronym": "CCGrid  2026",
+      "name": "The 26th IEEE International Symposium on Cluster, Cloud and Internet Computing",
+      "deadline": "Dec 15, 2025 (Dec 1, 2025)",
+      "where": "Sydney, Australia",
+      "when": "May 18, 2026 - May 21, 2026",
+      "keywords": [
+        "edge cloud computing",
+        "internet computing",
+        "distributed computing",
+        "software systems"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189781&copyownerid=195075",
+      "additional_info": [
+        {
+          "snippet": "Dec 8, 2021 · 个人觉得应该是油管的概念进入中国后的本地化差异的区别。 如果单看油管的话就我个人接触的虚拟主播的话无论是视频为主的绊爱未来明一类亦或者说直播为主的2434一 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676"
+        },
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "CCGrid 2026",
+          "date": "May 18–21, 2026",
+          "location": "Sydney, Australia",
+          "focus": "Distributed systems, cloud computing, AI/ML, and sustainable technologies",
+          "tracks": [
+            "Hardware Systems, Architectures, and Future Compute Platforms",
+            "Software Systems, Applications, and Programming Models",
+            "Sustainable Computing and Green Technologies",
+            "Performance Modeling, Analysis, and Optimization",
+            "Security, Privacy, and Ethical Computing",
+            "Cloud Infrastructure and Scalability"
+          ],
+          "submission_deadlines": [
+            "Abstract Submission: 1st December 2025",
+            "Paper Submission: 15th December 2025",
+            "Author Notifications: 10th February 2026",
+            "Camera Ready: 15th March 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "CYBER 2026",
+      "name": "The Eleventh International Conference on Cyber-Technologies and Cyber-Systems",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "cyber security",
+        "forensics",
+        "cyber crime",
+        "cyber systems"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190218&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Wicys 2026 in-person conference . March 11 -13, 2026 . WiCyS 2026 is the go-to event for cybersecurity professionals, students, and organizations. The conference is the flagship event to recruit, retain and advance women in cybersecurity.",
+          "title": "WiCyS 2026 | WiCyS - Women in Cybersecurity",
+          "link": "https://www.wicys.org/events/wicys-2026/"
+        },
+        {
+          "snippet": "Conference Calendar - IEEE Computational In… cis.ieee.org.",
+          "title": "cis.ieee.org/ conferences / conference -calendar",
+          "link": "https://cis.ieee.org/conferences/conference-calendar"
+        },
+        {
+          "snippet": "He is an Authorized Representative of the Consultative Council on Ukraine's Interaction with Arab and Muslim States. In 2020, he joined the working group on developing the state strategy for the de-occupation of Crimea and Sevastopol under the NSDC.",
+          "title": "National Security and Defense Council of Ukraine",
+          "link": "https://www.rnbo.gov.ua/en/"
+        },
+        {
+          "snippet": "Cybertech Israel 2014 – Cyber Security Conference and Exhibition.",
+          "title": "cybertechisrael.com",
+          "link": "https://www.cybertechisrael.com/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "Ei/Scopus-ITCC 2026",
+      "name": "2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026)",
+      "deadline": "Apr 22, 2026",
+      "where": "Guangzhou, China",
+      "when": "May 22, 2026 - May 24, 2026",
+      "keywords": [
+        "communications",
+        "networking",
+        "machine learning",
+        "computer science"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=127474&copyownerid=193532",
+      "additional_info": [
+        {
+          "snippet": "Aug 15, 2025 · For academics, researchers, and industry professionals in the fast-evolving world of computer science and technology , international conferences are essential for sharing groundbreaking work, fostering collaboration, and staying ahead of industry trends. The year 2026 presents a wealth of opportunities to present your research on a global stage.",
+          "title": "2026 International Conference List: A Guide for Computer and ...",
+          "link": "https://www.iconf.org/news/697"
+        },
+        {
+          "snippet": "Jan 8, 2025 · With Conference Locate (Clocate), you can browse events by subject and dates or year. Find information on IT Conferences in 2026 , including dates, locations, price ranges, and more.",
+          "title": "IT Conferences in 2026 | Conference Locate (Clocate)",
+          "link": "https://www.clocate.com/conferences-on+information-technology-it+2026/c3UtNDc2K3ly/"
+        },
+        {
+          "snippet": "邮箱: itcc_conf@163.com 会议简介 2026 第六届信息技术与云计算国际会议（ITCC 2026 ）将于 2026 年 5 月 22-24 日在中国广州举行。 ITCC 2026 将汇集顶尖的学术科学家、研究学者和研究人员，分享和交流他们在信息技术和云计算各方面的经验和研究成果。",
+          "title": "2026年第六届信息技术与云计算国际会议 (Itcc 2026)",
+          "link": "https://www.scholat.com/orgPost.html?id=3720"
+        },
+        {
+          "snippet": "International conferences have become one of the most powerful platforms for academic and professional growth. For researchers, these events provide an opportunity to present groundbreaking studies, gain peer recognition, and explore collaborative opportunities with experts worldwide. For students, international conferences serve as a stepping stone to the professional world, enabling them to ...",
+          "title": "Upcoming International Conferences 2026: Complete Guide for Researchers ...",
+          "link": "https://www.allinternationalconference.com/blog/2025/08/29/upcoming-international-conferences-2026-complete-guide-for-researchers-and-students/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "name": "Ei/Scopus-ITCC 2026",
+          "details": "2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026), aims to bring together leading academic scientists, researchers, and practitioners to share and exchange experiences and research results in Wireless Communication and Big Data. It provides a premier interdisciplinary forum for researchers, practitioners, and educators to present and discuss recent innovations, trends, and challenges in IT/Cloud Computing."
+        },
+        {
+          "name": "Information Theory",
+          "details": "The Application of Information Technology, Artificial & Computational Intelligence, Internet Technology, Control Theory, Computer Simulation, Signal & Image Processing, Information Technology Management, Pattern Recognition, Wireless Communication and Mobile Computing, Data Mining, CAD/CAM/CIM"
+        }
+      ]
+    },
+    {
+      "acronym": "SEMAPRO 2026",
+      "name": "he Twentieth International Conference on Advances in Semantic Processing",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "semantics",
+        "ontologies",
+        "multimedia",
+        "networking"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190213&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反话”视频与 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管上的官号 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？ …",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻译 luoyali …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "ICSNC 2026",
+      "name": "The Twenty-First International Conference on Systems and Networks Communications",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "systems",
+        "networking",
+        "mobile",
+        "RFID"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190220&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "IEEE INFOCOM 2026 is scheduled to take place at the Hilton Tokyo, Tokyo, Japan during May 18- 21 , 2026 . This event will be conducted in person, allowing attendees to fully immerse themselves in the conference experience. IEEE INFOCOM is a top-ranked conference on networking by...",
+          "title": "Call for Papers | IEEE International Conference on Computer...",
+          "link": "https://infocom2026.ieee-infocom.org/call-papers"
+        },
+        {
+          "snippet": "Workshops. Keynotes. Main Conference .The 21 st ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2026 ) will be held in Bangalore, India from 1-5 June 2026 .",
+          "title": "Home - ACM ASIACCS 2026",
+          "link": "https://asiaccs2026.cse.iitkgp.ac.in/"
+        },
+        {
+          "snippet": "The 2026 IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA 2026 ).",
+          "title": "3SCEA 2026 - ufe",
+          "link": "https://ufe.edu.eg/3scea2026/"
+        },
+        {
+          "snippet": "Welcome to the official webpage of the 12th International Conference on Rotordynamics 2026 . This event, taking place from June 22-26, 2026 , in Lahti, Finland...",
+          "title": "The 12th IFToMM International Conference on ... | LUT University",
+          "link": "https://www.lut.fi/en/rotordynamics2026"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "INNOV 2026",
+      "name": "The Fifteenth International Conference on Communications, Computation, Networks and Technologies",
+      "deadline": "Jun 8, 2026",
+      "where": "Barcelona, Spain",
+      "when": "Sep 27, 2026 - Oct 1, 2026",
+      "keywords": [
+        "communications",
+        "computing",
+        "networking",
+        "semantics"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190224&copyownerid=83510",
+      "additional_info": [
+        {
+          "snippet": "ENERGY 2025, The Fifteenth International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies WEB 2025, The Thirteenth International Conference on Building and Exploring Web Based Environments",
+          "title": "The Fifteenth International Conference on Smart Grids, Green ...",
+          "link": "https://www.conference2go.com/event/the-fifteenth-international-conference-on-smart-grids-green-communications-and-it-energy-aware-technologies-energy-2025/"
+        },
+        {
+          "snippet": "ICMU2025 -- The Fifteenth International Conference on Mobile Computing and Ubiquitous Networking -- focuses on the active area of research and development in mobile communications , networks , security, applications, algorithms, and systems as well as mobile computing and ubiquitous networking. Nowadays, mobile computing and ubiquitous",
+          "title": "ICMU 2025 : The 15th International Conference on Mobile ... - WikiCFP",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=184804"
+        },
+        {
+          "snippet": "The Fifteenth International Conference on Advanced Communications and Computation (INFOCOMP 2025) will be held in Valencia, Spain. The event invites contributions from all research domains related to the following areas: Communication , Biometrics, Modeling, Computation . Please be reminded that the deadline for submitting your contribution is Dec 03, 2024.",
+          "title": "The Fifteenth International Conference on Advanced Communications and ...",
+          "link": "https://www.conferencelists.org/event/the-fifteenth-international-conference-on-advanced-communications-and-computation-infocomp-2025/"
+        },
+        {
+          "snippet": "The Fifteenth International Conference on Ambient Computing, Applications, Services and Technologies (AMBIENT 2025), 28 Sep - 02 Oct, 2025, Lisbon, Portugal, organized by IARIA - International Academy Research and Industry Association.",
+          "title": "The Fifteenth International Conference on Ambient Computing ...",
+          "link": "https://www.clocate.com/the-international-conference-on-ambient-computing-applications-services-and-technologies-ambient/9821/"
+        }
+      ],
+      "conference_topics": {}
+    },
+    {
+      "acronym": "IMC 2026",
+      "name": "Internet Measurement Conference (Cycle 2)",
+      "deadline": "Apr 29, 2026 (Apr 22, 2026)",
+      "where": "Karlsruhe, Germany",
+      "when": "Nov 3, 2026 - Nov 6, 2026",
+      "keywords": [
+        "networking",
+        "mesurements",
+        "security",
+        "performance"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190238&copyownerid=195532",
+      "additional_info": [
+        {
+          "snippet": "The Internet Measurement Conference (IMC) is a highly selective venue for the presentation of measurement -based research in data communications. As we are in the era of data-driven research, IMC 2025 will focus on advancing the state of the art in the collection, usage, analysis, and sharing of network measurements for the research community.",
+          "title": "IMC 2025 : ACM Internet Measurement Conference 2025 (cycle 2) - WikiCFP",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=183233"
+        },
+        {
+          "snippet": "Proceedings of the 3rd ACM SIGCOMM Internet Measurement Conference , IMC 2003, Miami Beach, FL, USA, October 27- 29, 2003. ACM 2003, ISBN 1-58113-773-7 [contents]",
+          "title": "dblp: Internet Measurement Conference",
+          "link": "https://dblp.org/db/conf/imc/index"
+        },
+        {
+          "snippet": "Conference information: The 2024 Internet Measurement Conference (IMC) is a three-day internet measurement and analysis event. It is sponsored by ACM SIGCOMM and is the 24th in a series of highly successful internet measurement workshops and conferences .",
+          "title": "2024 Internet Measurement Conference Remote PoD",
+          "link": "https://www.africa.engineering.cmu.edu/events/2024/11/4-6-acm-imc-pod.html"
+        },
+        {
+          "snippet": "The ACM Internet Measurement Conference 2025 ( cycle 2) will be held in Wisconsin, United States of America. The event invites contributions from all research domains related to the following areas: Cybersecurity, Network, Measurements .",
+          "title": "ACM Internet Measurement Conference 2025 (cycle 2)",
+          "link": "https://www.conferencelists.org/event/acm-internet-measurement-conference-2025-cycle-2/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "IMC 2026: Internet Measurement Conference (Cycle 2)",
+          "location": "Karlsruhe, Germany",
+          "dates": "November 3–6, 2026",
+          "categories": [
+            "Networking",
+            "Measurements",
+            "Security",
+            "Performance",
+            "Edge Networks",
+            "Data Centers",
+            "P2P",
+            "Overlay",
+            "Software-Defined",
+            "Online Social",
+            "Cloud",
+            "Experimental",
+            "Future Internetworks"
+          ],
+          "abstract_registration_deadline": "April 22, 2026",
+          "submission_deadline": "April 29, 2026",
+          "notification_deadline": "August 4, 2026",
+          "final_version_deadline": "September 1, 2026",
+          "related_resources": [
+            {
+              "name": "Ei/Scopus-ITCC 2026",
+              "description": "2026 6th International Conference on Information Technology and Cloud Computing (ITCC 2026)"
+            },
+            {
+              "name": "IMC 2025",
+              "description": "ACM Internet Measurement Conference 2025 (cycle 2)"
+            },
+            {
+              "name": "IMC 2025",
+              "description": "ACM Internet Measurement Conference 2025 (cycle 1)"
+            },
+            {
+              "name": "Ei/Scopus-MLBDM 2025",
+              "description": "2025 5th International Conference on Machine Learning and Big Data Management (MLBDM 2025)"
+            },
+            {
+              "name": "IEEE-ACAI 2025",
+              "description": "2025 IEEE 8th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2025)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "Ei/Scopus-CMLDS 2026",
+      "name": "2026 3rd International Conference on Computing, Machine Learning and Data Science (CMLDS 2026)",
+      "deadline": "Mar 24, 2026",
+      "where": "Singapore",
+      "when": "Apr 24, 2026 - Apr 26, 2026",
+      "keywords": [
+        "robotics",
+        "machine learning",
+        "signal processing",
+        "computer science"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=172345&copyownerid=185107",
+      "additional_info": [
+        {
+          "snippet": "2026 3 rd International Conference on Computing , Machine Learning and Data Science ( CMLDS 2026 ) will be held in Singapore during April 24 th-26th, 2026 .",
+          "title": "CMLDS 2026",
+          "link": "http://www.cmlds.net/topics.html"
+        },
+        {
+          "snippet": "CMLDS 2026 is to bring together leading academic scientists, research scholars and researchers to share and exchange their experiences and research results about all aspects of Computing , Machine Learning and Data Science .Early bird registration. 20/02/ 2026 . Date formats: d/m/y.",
+          "title": "2026 3 rd International Conference on Computing , Machine ...",
+          "link": "https://kindcongress.com/event/cmlds-2026/"
+        },
+        {
+          "snippet": "Computing for Machine Vision. Machine Learning Methods and Analysis.Important. Please, check \" International Conference on Computing , Machine Learning and Data Science ( CMLDS )\" official website for possible changes, before making any traveling arrangements.",
+          "title": "3 rd International Conference on Computing , Machine Learning ...",
+          "link": "https://www.clocate.com/international-conference-on-computing-machine-learning-and-data-science-cmlds/101387/"
+        },
+        {
+          "snippet": "Computing , Machine Learning and Data Science . Artificial intelligence / AI - General. Conference Format: Online and Onsite. 2025 2nd International Conference on Computing , Machine Learning and Data Science ( CMLDS 2025) will be held during April 25-27, 2025 in Xiamen, China.",
+          "title": "CMLDS 2025 - 2025 2nd International Conference on Computing ...",
+          "link": "https://electroorg.com/events/113472/"
+        }
+      ],
+      "conference_topics": [
+        {
+          "title": "Computer Modeling",
+          "details": "Focus areas in the conference include computer modeling, machine learning techniques for big data, parallel computing, and machine learning trends."
+        },
+        {
+          "title": "Machine Learning Techniques for Big Data",
+          "details": "The conference emphasizes advanced machine learning methods tailored for handling large datasets."
+        },
+        {
+          "title": "Parallel Computing",
+          "details": "Highlights in parallel computing, including distributed and decentralized algorithms."
+        },
+        {
+          "title": "Quantum Computing",
+          "details": "Incorporates quantum computing as a key area of research and development."
+        },
+        {
+          "title": "Distributed and Decentralized Machine Learning Algorithms",
+          "details": "Focus on algorithms designed for distributed and decentralized systems."
+        },
+        {
+          "title": "High Performance Computing",
+          "details": "Emphasizes high-performance computing techniques and technologies."
+        },
+        {
+          "title": "Intelligent Cloud-support Communications",
+          "details": "Involves intelligent communication systems supported by cloud technologies."
+        },
+        {
+          "title": "Distributed and parallel systems",
+          "details": "Highlights in distributed and parallel computing frameworks."
+        },
+        {
+          "title": "Intelligent Software Defined Networks",
+          "details": "Focus on software-defined networks and their intelligent aspects."
+        },
+        {
+          "title": "Cognitive Computing",
+          "details": "Incorporates cognitive computing as a central theme in the conference."
+        },
+        {
+          "title": "Big Data Technologies",
+          "details": "Emphasizes big data technologies and their applications."
+        },
+        {
+          "title": "Cloud Computing",
+          "details": "Highlights cloud computing as a critical component of the conference."
+        },
+        {
+          "title": "Data Mining and Visualization",
+          "details": "Focus on data mining and visualization techniques."
+        }
+      ]
+    },
+    {
+      "acronym": "ICMSSP 2026",
+      "name": "2026 11th International Conference on Multimedia Systems and Signal Processing (ICMSSP 2026)",
+      "deadline": "Jan 10, 2026",
+      "where": "Hiroshima, Japan",
+      "when": "Jun 5, 2026 - Jun 7, 2026",
+      "keywords": [
+        "signal processing",
+        "communications",
+        "multimedia",
+        "information technology"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189160&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反话”视频与 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管上的官号 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？ …",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看翻译 luoyali …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": [
+        {
+          "conference_name": "ICMSSP 2026",
+          "location": "Hiroshima, Japan",
+          "dates": "June 5–7, 2026",
+          "submission_deadline": "January 10, 2026",
+          "contact": "Ms. Rachel Cao (email: icmssp@126.com)"
+        },
+        {
+          "categories": [
+            "Signal Processing",
+            "Communications",
+            "Multimedia",
+            "Information Technology"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "Ei/Scopus-CDIVP 2026",
+      "name": "2026 6th International Conference on Digital Image and Video Processing (CDIVP 2026)",
+      "deadline": "Feb 27, 2026",
+      "where": "Hangzhou, China",
+      "when": "Mar 27, 2026 - Mar 29, 2026",
+      "keywords": [
+        "digital image",
+        "video processing",
+        "video signal processing",
+        "medical image analysis"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=185169&copyownerid=165700",
+      "additional_info": [
+        {
+          "snippet": "CDIVP 2026 is to bring together leading academic scientists, research scholars and researchers to share and exchange their experiences and research results about all aspects of Digital Image and Video Processing .28/02/ 2026 . Registration Opens.",
+          "title": "2026 6 th International Conference on Digital Image and Video ...",
+          "link": "https://kindcongress.com/event/cdivp-2026/"
+        },
+        {
+          "snippet": "27 -29 Mar 2026 . Hangzhou, China.Computational Imaging . Learning and relevance feedback in image / video retrieval. Learning and assessment based on virtual reality approaches. Machine architectures/engines for graphics and VR.",
+          "title": "6 th International Conference on Digital Image and Video ...",
+          "link": "https://www.clocate.com/international-conference-on-digital-image-and-video-processing-cdivp/91699/"
+        },
+        {
+          "snippet": "CDIVP 2026 will be held during March 27 -29th, 2026 in Hangzhou, China, it will include presentations in form of contributed papers, poster sessions, and state of the art lectures by invited keynote speakers. Organized by: ICEA. Check the event website for more details.",
+          "title": "2026 6 th International Conference on Digital Image and Video ...",
+          "link": "https://conferencealerts.com/show-event?id=272858"
+        },
+        {
+          "snippet": "2026 6 th International Conference on Digital Image and Video Processing ( CDIVP 2026 )-Ei compendex & Scopus ( CDIVP 2026 ). CDIVP 2026 will include presentations in form of contributed papers, poster sessions, and state of the art lectures by invited keynote speakers.",
+          "title": "Call For Papers - The World's Largest Index/List of Call For Papers",
+          "link": "https://www.call4paper.com/detail/event/IKOPTJSO86248333?v=subject"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "Ei/Scopus-CDIVP 2026: 2026 6th International Conference on Digital Image and Video Processing (CDIVP 2026)",
+          "date": "March 27–29, 2026",
+          "location": "Hangzhou, China",
+          "submission_deadline": "February 27, 2026",
+          "format": "Online + In-person",
+          "topics": [
+            "Digital Image and Video Processing",
+            "3D and Surface Reconstruction",
+            "3D Modeling and Visualization",
+            "Image generation, acquisition, and processing",
+            "Image geometry and multi-view geometry",
+            "Image & Video Analysis and Segmentation",
+            "Image & Video Coding and Transmission",
+            "Medical Image processing",
+            "Pattern Analysis and Classification",
+            "Machine learning technologies for vision"
+          ]
+        }
+      ]
+    },
+    {
+      "acronym": "ICGSP--EI 2026",
+      "name": "2026 The 10th International Conference on Graphics and Signal Processing (ICGSP 2026)",
+      "deadline": "Feb 20, 2026",
+      "where": "Okayama, Japan",
+      "when": "Jun 26, 2026 - Jun 28, 2026",
+      "keywords": [
+        "computer graphics",
+        "computer vision",
+        "bioinformatics",
+        "multimedia"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=189854&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "ICGSP 2026 is sponsored by Okayama University, Japan. The conference provides a scientific platform for both local and international scientists, engineers and technologists who work in all aspects of Graphics and Signal Processing .",
+          "title": "ICGSP 2025| Tokushima, Japan",
+          "link": "https://icgsp.org/"
+        },
+        {
+          "snippet": "This conference will address diverse topics related to recent trends and progress made in the field of graphics and signal processing . We will be thankful for the contributions to ICGSP 2026 .",
+          "title": "ICGSP 2026-2026 The 10th International Conference on Graphics ...",
+          "link": "https://www.iconf.org/conference/icgsp2026"
+        },
+        {
+          "snippet": "Welcome to the official website of the 2026 10th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2026 ). The conference , co-organized by India International Congress on Computational Intelligence (IICCI, www.iicci.in) and Cebu Institute of Technology University, and supported by Tokyo Metropolitan ...",
+          "title": "ISMSI 2026",
+          "link": "https://www.ismsi.org/"
+        },
+        {
+          "snippet": "Sep 9, 2025 · 2026 The 10th International Conference on Graphics and Signal Processing , will be held in Okayama,Japan from Jun 26-Jun 28, 2026 , Enter this page to view detailed information about the conference , including scope of call for papers, submission deadline, conference schedule, contact information, etc.",
+          "title": "2026 The 10th International Conference on Graphics and Signal ...",
+          "link": "https://www.iconf.com/conference/ICGSP2026_8814"
+        }
+      ],
+      "conference_topics": [
+        {
+          "topic": "Computer Graphics",
+          "details": "Focus on advancements in image processing, AI, and real-time applications."
+        },
+        {
+          "topic": "Computer Vision",
+          "details": "Applications in healthcare, data analysis, and computational biology."
+        },
+        {
+          "topic": "Bioinformatics",
+          "details": "Use in healthcare, data analysis, and computational biology."
+        },
+        {
+          "topic": "Multimedia",
+          "details": "Topics like big data analytics, distributed systems, and multimedia networking."
+        },
+        {
+          "topic": "Emerging Technology",
+          "details": "AI, IoT, ML, and cybersecurity in healthcare and smart environments."
+        }
+      ]
+    },
+    {
+      "acronym": "CCCE--EI 2026",
+      "name": "2026 6th International Conference on Computer and Communication Engineering (CCCE 2026)",
+      "deadline": "Mar 10, 2026",
+      "where": "Milan, Italy",
+      "when": "Aug 28, 2026 - Aug 30, 2026",
+      "keywords": [
+        "cloud computing",
+        "signal processing",
+        "networks",
+        "wireless communications"
+      ],
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190483&copyownerid=13881",
+      "additional_info": [
+        {
+          "snippet": "Jun 17, 2025 · 如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？ 近日，B 站 UP 主「章北海 official」在哔哩哔哩弹幕网上暗示自己是统战部的工作人员，并表示自己说的一些“反 …",
+          "title": "如何评价 B 站 UP 主「章北海 official」自称在统战部门工作？",
+          "link": "https://www.zhihu.com/question/1918340239388291607"
+        },
+        {
+          "snippet": "如何评价B站up主“章北海official”在9月7日发布的视频【从夯到拉，总结中文互联网键政十个派别-哔哩哔哩…",
+          "title": "如何评价B站up主“章北海official”发布的视频《从夯到拉，总结中 …",
+          "link": "https://www.zhihu.com/question/1948098499657836281"
+        },
+        {
+          "snippet": "Official是日V版本下，采取“字幕组代管官号与收益中介”下对外语V的“官方”标记。 很多国V受此风气影响也采用了Official来标记自己的官号。 Channel就是普通的“频道”，国V日V都有用，油管 …",
+          "title": "虚拟主播账号名称使用的后缀“official”与“channel”的区别是什么？",
+          "link": "https://www.zhihu.com/question/504459676/answers/updated"
+        },
+        {
+          "snippet": "Oct 4, 2025 · 关于中文 (简体) 的问题 我想说オフィシャルサイト、official website ，可以说 官方网站吗。 我想说的不是 政府发布的，我想说的官方意思是，比如 官方旗舰店 的 官方。 查看 …",
+          "title": "我想说オフィシャルサイト、official website ... - HiNative",
+          "link": "https://zh.hinative.com/questions/7281116"
+        }
+      ],
+      "conference_topics": [
+        {
+          "event_name": "CCCE 2026",
+          "location": "Milan, Italy",
+          "dates": "August 28–30, 2026",
+          "submission_deadline": "March 10, 2026",
+          "categories": [
+            "Computer/device networking (technologies, architectures, protocols, applications)",
+            "Network stability, control, and optimization",
+            "Wireless transmission and networking technology",
+            "Emerging communication technologies and applications",
+            "Signal processing for networking",
+            "Space communications, navigation, and tracking",
+            "Radio networking",
+            "Wireless, cellular, and mobile communications",
+            "Signal processing for AI and its impact on infrastructure",
+            "IoT, sensor design, and sensor networks",
+            "Peer-to-Peer communication and computing",
+            "Theory and application of Artificial Intelligence (AI) and their impact on computer/network infrastructure"
+          ],
+          "contact": "Ms. Ching Cao (ccce_conf@outlook.com)"
+        }
+      ]
+    }
+  ],
+  "selected_venues": [
+    {
+      "name": "ICGSP 2026",
+      "acronym": "ICGSP--EI 2026",
+      "link": "https://www.iconf.org/conference/icgsp2026",
+      "date": "2026-06-26",
+      "location": "Okayama, Japan",
+      "conference_topics": [
+        "Computer Graphics",
+        "Computer Vision",
+        "Bioinformatics",
+        "Multimedia"
+      ],
+      "additional_info": [
+        {
+          "title": "ICGSP 2025| Tokushima, Japan",
+          "link": "https://icgsp.org/"
+        }
+      ]
+    },
+    {
+      "name": "CCCE 2026",
+      "acronym": "CCCE--EI 2026",
+      "link": "http://www.wikicfp.com//cfp/servlet/event.showcfp?eventid=190483&copyownerid=13881",
+      "date": "2026-08-28",
+      "location": "Milan, Italy",
+      "conference_topics": [
+        "Computer/device networking (technologies, architectures, protocols, applications)",
+        "Network stability, control, and optimization",
+        "Wireless transmission and networking technology",
+        "Emerging communication technologies and applications",
+        "Signal processing for networking",
+        "Space communications, navigation, and tracking",
+        "Radio networking",
+        "Wireless, cellular, and mobile communications",
+        "Signal processing for AI and its impact on infrastructure",
+        "IoT, sensor design, and sensor networks",
+        "Peer-to-Peer communication and computing",
+        "Theory and application of Artificial Intelligence (AI) and their impact on computer/network infrastructure"
+      ],
+      "additional_info": [
+        {
+          "title": "CCCE 2026",
+          "link": "https://www.ccce.org/"
+        }
+      ]
+    }
+  ],
+  "final_decision": "<think>\nOkay, I need to write a final report in Markdown format for the researcher based on the provided information. Let me start by understanding the user's request. They provided two recommended conferences with their details, and I need to present them in a structured way.\n\nFirst, I'll check the format requirements. The report should be in Markdown, so I need to use headings like \"Recommended Conferences\" and list each with the acronym, name, deadline, location, topics, and additional info links. The user also mentioned including the WikiCFP link for each conference, so I need to make sure that's included.\n\nLooking at the data, there are two conferences listed. For the first, I'll use the ICGSP 2026 with the link provided. The date is 2026-06-26, location in Okayama, Japan. The topics are Computer Graphics, Computer Vision, Bioinformatics, Multimedia. The additional info includes the ICGSP 2025 event in Tokushima. Then, the second conference is CCCE 2026 with the link to wikicfp.com, and the date and location in Milan, Italy. The topics are a list that includes many categories, and the additional info is the CCCE 2026 link.\n\nI need to structure each conference with the required fields: acronym, name, deadline, location, topics, and additional info. Also, ensure that the WikiCFP link is correctly formatted as a hyperlink. I should avoid any markdown syntax errors and present the information clearly. Let me double-check the dates and locations to ensure accuracy. Once all information is organized, I can present the final report in the specified Markdown format.\n</think>\n\n```markdown\n# Recommended Conferences\n\n## ICGSP 2026  \n**Acronym:** ICGSP--EI 2026  \n**Deadline:** 2026-06-26  \n**Location:** Okayama, Japan  \n\n**Conference Topics:**  \n- Computer Graphics  \n- Computer Vision  \n- Bioinformatics  \n- Multimedia  \n\n**Additional Info:**  \n- [ICGSP 2025| Tokushima, Japan](https://icgsp.org/)  \n\n## CCCE 2026  \n**Acronym:** CCCE--EI 2026  \n**Deadline:** 2026-08-28  \n**Location:** Milan, Italy  \n\n**Conference Topics:**  \n- Computer/device networking (technologies, architectures, protocols, applications)  \n- Network stability, control, and optimization  \n- Wireless transmission and networking technology  \n- Emerging communication technologies and applications  \n- Signal processing for networking  \n- Space communications, navigation, and tracking  \n- Radio networking  \n- Wireless, cellular, and mobile communications  \n- Signal processing for AI and its impact on infrastructure  \n- IoT, sensor design, and sensor networks  \n- Peer-to-Peer communication and computing  \n- Theory and application of Artificial Intelligence (AI) and their impact on computer/network infrastructure  \n\n**Additional Info:**  \n- [CCCE 2026](https://www.ccce.org/)\n```",
+  "insufficient": false,
+  "agent_logs": {
+    "analyst": {
+      "plan": "<think>\nOkay, let's tackle this keyword extraction plan. The user wants me to extract conceptual keywords from the given academic text. First, I need to understand the task clearly. The core strategy is to differentiate between conceptual and specific keywords. So, first, I should read the text carefully and identify the main ideas.\n\nThe paper is about distributed small wireless systems, specifically swarm airborne mini-drones. The main challenges are localization and synchronization, which are high-level terms. Then, the approach involves relay nodes, modulating signals, and using beamforming. The SNR is improved, and the beamforming array is used for demonstration. The goal is to extract terms that define the field, like \"distributed systems\" or \"relay nodes,\" and ignore those related to specific technical aspects like \"non-iid data\" or \"stragglers.\"\n\nNow, I need to structure the plan step-by-step. The input is an academic text, so I'll start by reading it and identifying the main concepts. Then, categorize them into conceptual and specific. For conceptual, terms like \"distributed systems,\" \"relay nodes,\" \"mobile drones,\" \"localization,\" \"synchronization,\" \"beamforming,\" \"SNR,\" \"real-time adaptive,\" \"wireless sensing,\" and \"communication systems.\" For specific, terms like \"non-iid data,\" \"stragglers,\" \"Adam optimizer,\" \"CIFAR-10 dataset,\" \"RF circuitry,\" \"phase delay,\" \"propagation paths,\" \"beamforming array,\" \"two-drones,\" \"experimentally demonstrated,\" \"large number of distributed mini-drones.\"\n\nWait, the user mentioned to ignore specific keywords. So, after identifying, I need to list only the conceptual ones. Let me check again. The text mentions \"distributed systems,\" \"relay nodes,\" \"mobile drones,\" \"localization,\" \"synchronization,\" \"beamforming,\" \"SNR,\" \"real-time adaptive,\" \"wireless sensing,\" \"communication systems.\" Yes, those are all conceptual. Specific ones are the technical terms. So the plan should list these as the output. Make sure to mention that the output is a list of keywords, and the input is the academic text. No markdown, just plain text.\n</think>\n\n### Step-by-Step Keyword Extraction Plan  \n\n**Input:**  \n- Academic text: *\"Combing distributed small wireless systems on mobile platforms such as swarm airborne mini-drones has been explored recently. Localization and synchronization of the mobile drones are the main challenges limiting its practical applications. In this paper, we proposed a new approach to circumvent this limits by considering the drones as relay nodes, where the received signals are modulated to different frequencies and then re-transmitted to the final receiver for demodulation and beamforming. Real-time adaptive beamformer algorithm is used to compensate for the phase delay difference among drone elements in RF circuitry and in propagation paths caused by different drone elements positions. A beamforming array based on two-drones uses to demonstrate this concept. Improved signal to noise ratio (SNR) has been experimentally demonstrated with such beamforming approach. The proposed beamforming system architecture is expected to extend to a large number of distributed mini-drones for future wireless sensing and communication systems.\"*  \n\n**Output:**  \n- List of **Conceptual / Thematic Keywords**:  \n  - **Distributed systems**  \n  - **Wireless systems**  \n  - **Swarm airborne mini-drones**  \n  - **Relay nodes**  \n  - **Mobile drones**  \n  - **Localization**  \n  - **Synchronization**  \n  - **Beamforming**  \n  - **SNR**  \n  - **Real-time adaptive**  \n  - **Wireless sensing**  \n  - **Communication systems**  \n\n**Note:**  \n- Specific keywords (e.g., \"non-iid data\", \"stragglers\", \"Adam optimizer\", \"CIFAR-10 dataset\") are **ignored**.  \n- The plan ensures that only high-level, field-specific terms are extracted.",
+      "reasoning": "<think>\nOkay, let's see. The user wants me to extract the conference-level keywords from the given paper summary. First, I need to identify all the candidate terms from the text. The text mentions \"distributed small wireless systems on mobile platforms\" and \"localization and synchronization of the mobile drones.\" Then there's the approach using relay nodes, modulated signals, and beamforming algorithms. Also, the SNR and beamforming array.\n\nSo, the first step is to list all nouns, noun phrases, and technical terms. Let's break it down. \"Distributed small wireless systems\" is a technical term. \"Mobile platforms\" and \"swarm airborne mini-drones\" are also there. \"Localization and synchronization\" are nouns. Then \"relay nodes\" and \"modulated signals\" are terms. \"Beamforming array\" and \"beamforming\" are technical. \"SNR\" is a technical term. \"Wireless sensing and communication systems\" are the main applications.\n\nNow, applying the core test: is the term a conference-topic or paper-detail? For \"distributed small wireless systems,\" it's a conference topic. \"Localization and synchronization\" are part of the paper's challenges, so they fail. \"Relay nodes\" and \"modulated signals\" are part of the approach, so they fail. \"Beamforming array\" and \"beamforming\" are part of the paper's method, so they fail. \"SNR\" is a technical term, so it passes. \"Wireless sensing and communication systems\" are applications, so they pass. Wait, but the example in the previous step had \"federated learning\" as a conference term. So here, \"distributed systems\" is a conference topic, so it passes. So the final list would be \"distributed systems,\" \"SNR,\" and maybe \"beamforming array.\" Let me check again. The example had \"federated learning\" and \"Networking,\" so maybe \"Networking\" is a conference term. In this case, \"Networking\" is part of the paper's context. So the final list would be \"distributed systems,\" \"Networking,\" \"beamforming array,\" and \"SNR.\"\n</think>\n\ndistributed systems, networking, beamforming array, signal to noise ratio",
+      "memory": "",
+      "iterations": 1,
+      "plan_log": [
+        "<think>\nOkay, let's tackle this keyword extraction plan. The user wants me to extract conceptual keywords from the given academic text. First, I need to understand the task clearly. The core strategy is to differentiate between conceptual and specific keywords. So, first, I should read the text carefully and identify the main ideas.\n\nThe paper is about distributed small wireless systems, specifically swarm airborne mini-drones. The main challenges are localization and synchronization, which are high-level terms. Then, the approach involves relay nodes, modulating signals, and using beamforming. The SNR is improved, and the beamforming array is used for demonstration. The goal is to extract terms that define the field, like \"distributed systems\" or \"relay nodes,\" and ignore those related to specific technical aspects like \"non-iid data\" or \"stragglers.\"\n\nNow, I need to structure the plan step-by-step. The input is an academic text, so I'll start by reading it and identifying the main concepts. Then, categorize them into conceptual and specific. For conceptual, terms like \"distributed systems,\" \"relay nodes,\" \"mobile drones,\" \"localization,\" \"synchronization,\" \"beamforming,\" \"SNR,\" \"real-time adaptive,\" \"wireless sensing,\" and \"communication systems.\" For specific, terms like \"non-iid data,\" \"stragglers,\" \"Adam optimizer,\" \"CIFAR-10 dataset,\" \"RF circuitry,\" \"phase delay,\" \"propagation paths,\" \"beamforming array,\" \"two-drones,\" \"experimentally demonstrated,\" \"large number of distributed mini-drones.\"\n\nWait, the user mentioned to ignore specific keywords. So, after identifying, I need to list only the conceptual ones. Let me check again. The text mentions \"distributed systems,\" \"relay nodes,\" \"mobile drones,\" \"localization,\" \"synchronization,\" \"beamforming,\" \"SNR,\" \"real-time adaptive,\" \"wireless sensing,\" \"communication systems.\" Yes, those are all conceptual. Specific ones are the technical terms. So the plan should list these as the output. Make sure to mention that the output is a list of keywords, and the input is the academic text. No markdown, just plain text.\n</think>\n\n### Step-by-Step Keyword Extraction Plan  \n\n**Input:**  \n- Academic text: *\"Combing distributed small wireless systems on mobile platforms such as swarm airborne mini-drones has been explored recently. Localization and synchronization of the mobile drones are the main challenges limiting its practical applications. In this paper, we proposed a new approach to circumvent this limits by considering the drones as relay nodes, where the received signals are modulated to different frequencies and then re-transmitted to the final receiver for demodulation and beamforming. Real-time adaptive beamformer algorithm is used to compensate for the phase delay difference among drone elements in RF circuitry and in propagation paths caused by different drone elements positions. A beamforming array based on two-drones uses to demonstrate this concept. Improved signal to noise ratio (SNR) has been experimentally demonstrated with such beamforming approach. The proposed beamforming system architecture is expected to extend to a large number of distributed mini-drones for future wireless sensing and communication systems.\"*  \n\n**Output:**  \n- List of **Conceptual / Thematic Keywords**:  \n  - **Distributed systems**  \n  - **Wireless systems**  \n  - **Swarm airborne mini-drones**  \n  - **Relay nodes**  \n  - **Mobile drones**  \n  - **Localization**  \n  - **Synchronization**  \n  - **Beamforming**  \n  - **SNR**  \n  - **Real-time adaptive**  \n  - **Wireless sensing**  \n  - **Communication systems**  \n\n**Note:**  \n- Specific keywords (e.g., \"non-iid data\", \"stragglers\", \"Adam optimizer\", \"CIFAR-10 dataset\") are **ignored**.  \n- The plan ensures that only high-level, field-specific terms are extracted."
+      ],
+      "reasoning_log": [
+        "<think>\nOkay, let's see. The user wants me to extract the conference-level keywords from the given paper summary. First, I need to identify all the candidate terms from the text. The text mentions \"distributed small wireless systems on mobile platforms\" and \"localization and synchronization of the mobile drones.\" Then there's the approach using relay nodes, modulated signals, and beamforming algorithms. Also, the SNR and beamforming array.\n\nSo, the first step is to list all nouns, noun phrases, and technical terms. Let's break it down. \"Distributed small wireless systems\" is a technical term. \"Mobile platforms\" and \"swarm airborne mini-drones\" are also there. \"Localization and synchronization\" are nouns. Then \"relay nodes\" and \"modulated signals\" are terms. \"Beamforming array\" and \"beamforming\" are technical. \"SNR\" is a technical term. \"Wireless sensing and communication systems\" are the main applications.\n\nNow, applying the core test: is the term a conference-topic or paper-detail? For \"distributed small wireless systems,\" it's a conference topic. \"Localization and synchronization\" are part of the paper's challenges, so they fail. \"Relay nodes\" and \"modulated signals\" are part of the approach, so they fail. \"Beamforming array\" and \"beamforming\" are part of the paper's method, so they fail. \"SNR\" is a technical term, so it passes. \"Wireless sensing and communication systems\" are applications, so they pass. Wait, but the example in the previous step had \"federated learning\" as a conference term. So here, \"distributed systems\" is a conference topic, so it passes. So the final list would be \"distributed systems,\" \"SNR,\" and maybe \"beamforming array.\" Let me check again. The example had \"federated learning\" and \"Networking,\" so maybe \"Networking\" is a conference term. In this case, \"Networking\" is part of the paper's context. So the final list would be \"distributed systems,\" \"Networking,\" \"beamforming array,\" and \"SNR.\"\n</think>\n\ndistributed systems, networking, beamforming array, signal to noise ratio"
+      ],
+      "keywords": [
+        "distributed systems",
+        "networking",
+        "beamforming array",
+        "signal to noise ratio"
+      ]
+    },
+    "researcher": {
+      "plan": "<think>\nOkay, let's see. The user wants me to develop a step-by-step plan to identify conference topics of interest based on the given content. The content provided is a CFP (Conference Paper) information from the CCCE 2026 event. \n\nFirst, I need to parse the information given. The main points are the event name, location, dates, submission deadline, categories, and contact information. The user probably wants to extract key information and then structure a plan to identify the topics.\n\nStep 1: Identify the event details. The event is called CCCE 2026, held in Milan, Italy, from August 28-30, 2026. The submission deadline is March 10, 2026. The main categories mentioned are cloud computing, signal processing, networks, wireless communications, and emerging communication technologies. Also, there are other categories like IoT, sensor design, and AI impact on infrastructure.\n\nStep 2: Organize the information. Once I have the event details, I should list the main categories. Then, check if there are any specific topics mentioned beyond the general categories. For example, the call for papers includes areas like computer/networking, network stability, wireless, emerging tech, etc. So, the main topics would be those categories.\n\nStep 3: Ensure all key points are covered. Make sure to mention the submission deadline and the contact information as part of the plan. Also, verify that the categories are accurate and up to date with the event's offerings.\n\nWait, the user might also want to consider the call for papers. They mentioned authors are invited to submit full papers in various areas, so the plan should include those categories. Also, the venue is Milan, Italy, which could be a location factor, but the user probably wants the main topics first.\n\nI need to structure this step-by-step clearly, making sure each step leads to the next. Maybe start by listing the event details, then the main categories, and finally the submission details. Also, check for any other relevant information like the abstracted databases or publication details, but those might be part of the call for papers.\n\nWait, the content provided includes links to other resources, but the user's main focus is on the conference topics. So, the plan should focus on the main categories and the submission deadline. Make sure to present this in a step-by-step manner without any markdown.\n</think>\n\n**Step-by-Step Plan to Identify Conference Topics of Interest:**\n\n1. **Extract Event Details:**  \n   - **Event Name:** CCCE 2026 (6th International Conference on Computer and Communication Engineering)  \n   - **Location:** Milan, Italy  \n   - **Dates:** August 28–30, 2026  \n   - **Submission Deadline:** March 10, 2026  \n   - **Venue:** Milan, Italy  \n\n2. **Identify Key Categories:**  \n   - **Main Categories:**  \n     - Computer/device networking (technologies, architectures, protocols, applications)  \n     - Network stability, control, and optimization  \n     - Wireless transmission and networking technology  \n     - Emerging communication technologies and applications  \n     - Signal processing for networking  \n     - Space communications, navigation, and tracking  \n     - Radio networking  \n     - Wireless, cellular, and mobile communications  \n     - Signal processing for AI and its impact on infrastructure  \n     - IoT, sensor design, and sensor networks  \n     - Peer-to-Peer communication and computing  \n     - Theory and application of AI and their impact on computer/network infrastructure  \n\n3. **Confirm Submission Requirements:**  \n   - **Submission Methods:** Full paper (publication and oral presentation), abstract (oral only), and electronic submission via the provided link.  \n\n4. **Verify Additional Information:**  \n   - **Contact:** Ms. Ching Cao (ccce_conf@outlook.com)  \n   - **Publication:** Peer-reviewed, indexed in DBLP, Google Scholar, EI-Compendex, and ISI Proceedings.  \n\n5. **Finalize Topic List:**  \n   - Ensure all categories align with the event’s focus areas (e.g., wireless, AI, IoT) and that submission deadlines are clearly stated.  \n\n**Summary:**  \nThe primary conference topics are categorized across computer/networking, communication technologies, and AI-related fields, with submission deadlines and contact details provided for further assistance.",
+      "reasoning": "<think>\nOkay, let me check the plan again. The user wants to identify conference topics based on the provided CFP information. The plan steps are clear: extract event details, identify main categories, verify submission info, and finalize the list. The content matches the event details, and all categories are accurately listed. The submission deadline and contact info are included. I need to make sure there are no errors in the structure or information. Everything seems to be consistent. The user probably wants a concise and accurate summary, so the final answer should present the key points clearly.\n</think>\n\n**Step-by-Step Plan to Identify Conference Topics of Interest:**\n\n1. **Extract Event Details:**  \n   - **Event Name:** CCCE 2026 (6th International Conference on Computer and Communication Engineering)  \n   - **Location:** Milan, Italy  \n   - **Dates:** August 28–30, 2026  \n   - **Submission Deadline:** March 10, 2026  \n   - **Venue:** Milan, Italy  \n\n2. **Identify Key Categories:**  \n   - **Main Categories:**  \n     - Computer/networking (technologies, architectures, protocols, applications)  \n     - Network stability, control, and optimization  \n     - Wireless transmission and networking technology  \n     - Emerging communication technologies and applications  \n     - Signal processing for networking  \n     - Space communications, navigation, and tracking  \n     - Radio networking  \n     - Wireless, cellular, and mobile communications  \n     - Signal processing for AI and its impact on infrastructure  \n     - IoT, sensor design, and sensor networks  \n     - Peer-to-Peer communication and computing  \n     - Theory and application of Artificial Intelligence (AI) and their impact on computer/network infrastructure  \n\n3. **Verify Submission Requirements:**  \n   - **Submission Methods:** Full paper (publication and oral presentation), abstract (oral only), and electronic submission via the provided link.  \n\n4. **Finalize Topic List:**  \n   - Ensure all categories align with the event’s focus areas (e.g., wireless, AI, IoT) and that submission deadlines are clearly stated.  \n\n**Summary:**  \nThe primary conference topics are categorized across computer/networking, communication technologies, and AI-related fields, with submission deadlines and contact details provided for further assistance.",
+      "memory": ""
+    }
+  }
+}

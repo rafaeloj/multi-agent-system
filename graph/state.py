@@ -10,13 +10,14 @@ class Vanue(TypedDict):
 
 class AgentState(TypedDict):
     summary: str
-    NK: int
+    K: int
     keywords: List[str]
     search_tries: int
     raw_venues: Optional[List[Vanue]]
     enriched_venues: Optional[List[Vanue]]
     selected_venues: Optional[List[Vanue]]
     final_decision: Optional[str]
+    insufficient: Optional[bool]
     agent_logs: Optional[Dict[str, Dict[str, str]]]
 
 class AnalystState(TypedDict, total=False):
@@ -33,5 +34,15 @@ class AnalystState(TypedDict, total=False):
 class CriticState(TypedDict):
     summary: str
     enriched_venues: List[Vanue]
-    NK: int
+    K: int
     selected_venues: Optional[List[Vanue]]
+    new_keywords: Optional[List[str]]
+    search_again: Optional[bool]
+    keywords: Optional[List[str]]
+    insufficient: Optional[bool]
+    iteration: int
+    max_iterations: int
+    plan: str
+    plan_log: List[str]
+    reasoning: str
+    reasoning_log: List[str]

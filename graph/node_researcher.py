@@ -10,18 +10,16 @@ from langchain_community.tools import DuckDuckGoSearchResults
 import json
 
 def node_researcher(state: AgentState):
-    print('Node Researcher activated')
+    print('----------- Node Researcher activated --------')
     venues_list = state['raw_venues']
-    if not venues_list:
-        return {"enriched_venues": []}
     ddg_search_tool = DuckDuckGoSearchResults(output_format="list")
     enriched = []
     for venue in venues_list:
-        query = f"official website and main topics of the conference {venue['full_name']} in {venue['deadline']}"
+        query = f"official website and main topics of the conference {venue['name']} in {venue['deadline']}"
         try:
             search_results = ddg_search_tool.run(query)
         except Exception as e:
-            search_results = f"No additional information found for {venue['full_name']}"
+            search_results = f"No additional information found for {venue['name']}"
         venue['additional_info'] = search_results
         enriched.append(venue)
     
@@ -39,7 +37,7 @@ def node_researcher(state: AgentState):
     )
 
     json_llm = ChatOllama(
-        model=os.environ.get("RESEARCHER_LLM"),
+        model=os.environ.get("JSON_LLM"),
         temperature=0,
         format='json',
     )
@@ -50,12 +48,12 @@ def node_researcher(state: AgentState):
 
     links = [venue['link'] for venue in enriched]
 
-    print("Fetching contents from conference links...")
+    print("----- Fetching contents from conference links ------")
     contents = get_url_content(links)
 
-    print("Processing each venue for enrichment...")
-    for i, venue in enumerate(enriched[:5]):
-        print(f"Enriching venue: {venue['full_name']}")
+    print("----- Processing each venue for enrichment ------")
+    for i, venue in enumerate(enriched):
+        # print(f"Enriching venue: {venue['name']}")
         content = contents[i]
         print("Researcher planning...")
         _ = researcher_agent.plan({"content": content})
@@ -67,7 +65,7 @@ def node_researcher(state: AgentState):
             "plan": researcher_agent._last_plan,
             "reasoning": researcher_agent._last_reasoning,
         })
-        print(result)
+        # print(result)
         venue['conference_topics'] = result.get('conference_topics', {})
 
     logs = state['agent_logs']
